@@ -1,0 +1,1011 @@
+customer_id,name,age,gender,state,signup_date,email,phone_number,subscribe
+CUST0001,Gandi,26.0,Male,Sulawesi Utara,2025-05-05,gandi_96@example.com,08422757160,No
+CUST0002,Cecep,49.0,Male,Aceh,2025-06-02,cecep467@example.com,088171122035,No
+CUST0003,Artawan,26.0,Male,Jambi,2025-02-11,wahyuninovi@example.net,08692932468,Yes
+CUST0004,Mulya,61.0,Male,Nusa Tenggara Timur,2025-02-19,nnapitupulu@example.com,08515735210,Yes
+CUST0005,Taufik,43.0,Male,Kepulauan Riau,2025-08-04,taufik_87@example.com,081034538051,Yes
+CUST0006,Genta,20.0,Female,Kalimantan Timur,2025-06-04,puyainah@example.com,0818757946920,Yes
+CUST0007,Dimas,18.0,Male,Sumatera Barat,2024-11-14,224dimas@example.com,08189638436,No
+CUST0008,Nilam,26.0,Female,Jawa Timur,2025-05-22,tariandriani@example.org,08649564474,Yes
+CUST0009,Emas,29.0,Male,Nusa Tenggara Timur,2023-11-30,emas288@example.com,08712019987,Yes
+CUST0010,Kani,64.0,Female,Kalimantan Utara,2025-03-05,asmiantosimbolon@example.org,08691418746,Yes
+CUST0011,Putri,62.0,Female,Kepulauan Riau,2025-01-15,jailanidarsirah@example.org,0811765466,Yes
+CUST0012,Raditya,45.0,Male,Jawa Timur,2024-03-14,raditya_90@example.com,082220924900,Yes
+CUST0013,Olivia,21.0,Female,DKI Jakarta,2025-04-29,olivia35@example.com,088842000527,Yes
+CUST0014,Asmianto,35.0,Male,Sulawesi Tengah,2024-08-24,raharja94@example.net,0830056278,Yes
+CUST0015,Karya,45.0,Male,Kalimantan Tengah,2024-05-16,prasastafebi@example.net,0883184813718,Yes
+CUST0016,Enteng,18.0,Male,Kalimantan Tengah,2025-05-26,enteng782@example.com,0819222439412,Yes
+CUST0017,Belinda,27.0,Female,Sulawesi Utara,2024-12-15,belinda_94@example.com,087789167795,Yes
+CUST0018,Kania,54.0,Female,Jawa Tengah,2023-12-20,rusman50@example.org,082570741299,Yes
+CUST0019,Wirda,50.0,Female,Kalimantan Timur,2024-12-15,wirda_21@example.com,08167366035,Yes
+CUST0020,Ajimin,,Male,Bengkulu,2024-10-09,ajimin354@example.com,0857252618973,Yes
+CUST0514,Adinata,60.0,Male,Aceh,2023-12-11,bgunawan@example.net,08287301073,Yes
+CUST0021,Irfan,59.0,Male,Jawa Timur,2025-09-23,irfan560@example.com,089030985121,Yes
+CUST0022,Laras,25.0,Female,Gorontalo,2025-07-04,laras202@example.com,0876149291,No
+CUST0023,Drajat,63.0,Male,Bengkulu,2023-11-08,586drajat@example.com,0869239705010,Yes
+CUST0024,Halima,49.0,Female,Sumatera Selatan,2024-05-28,vfirmansyah@example.com,08428991937,Yes
+CUST0025,Gina,25.0,Female,Sulawesi Tenggara,2024-12-29,kayla05@example.com,0875066923,Yes
+CUST0026,Teddy,23.0,Male,Bengkulu,2024-12-07,hsihotang@example.net,0801317419,Yes
+CUST0027,Elisa,21.0,Female,Sumatera Barat,2024-06-04,933elisa@example.com,0888243008034,Yes
+CUST0028,Septi,43.0,Female,Bali,2024-11-14,septi362@example.com,0856469458258,No
+CUST0029,Kiandra,52.0,Female,Jawa Barat,2024-02-28,hutapeadaryani@example.org,084150799109,Yes
+CUST0030,Hamima,61.0,Female,Kalimantan Barat,2024-09-16,ibrahimhartati@example.org,089959402600,Yes
+CUST0031,Salimah,60.0,Female,Kalimantan Barat,2025-04-10,rafid56@example.org,08186096425,No
+CUST0032,Iriana,40.0,Female,Riau,2025-02-10,cagakkusumo@example.org,0826260451,Yes
+CUST0033,Raden,47.0,Male,Kalimantan Selatan,2023-11-16,raden_6@example.com,08448856016,Yes
+CUST0034,Ani,39.0,Female,Kalimantan Barat,2025-08-08,ani_50@example.com,0839710740771,No
+CUST0035,Yessi,21.0,Female,Gorontalo,2024-04-25,cawuk46@example.net,081027769908,No
+CUST0036,Amelia,28.0,Female,Sulawesi Tenggara,2025-06-13,phutapea@example.net,0851504518,Yes
+CUST0037,Dewi,60.0,Female,Kepulauan Riau,2024-01-15,578dewi@example.com,0803009617084,Yes
+CUST0038,Ganep,27.0,Male,,2024-04-02,uwaishimawan@example.org,0800743640,Yes
+CUST0039,Kawaya,22.0,Male,Sumatera Barat,2025-05-07,kawaya429@example.com,089967696232,Yes
+CUST0040,Bahuwarna,56.0,Male,Kalimantan Timur,2024-05-20,wriyanti@example.com,0883953990,No
+CUST0041,Zulfa,49.0,Female,Kepulauan Riau,2025-04-28,kemba06@example.org,0895039630,Yes
+CUST0042,Daryani,39.0,Male,Sulawesi Utara,2024-12-15,pudjiastutiprayoga@example.org,088017553925,No
+CUST0043,Azalea,21.0,Female,Bengkulu,2024-12-18,azalea436@example.com,08017750425,Yes
+CUST0044,Yunita,54.0,Female,Aceh,2024-02-08,siregarbella@example.com,08561409632,No
+CUST0045,Harto,60.0,Male,Nusa Tenggara Barat,2023-11-19,harto401@example.com,0815095803,No
+CUST0046,Mila,21.0,Female,Lampung,2024-01-30,jefri95@example.org,0830530604317,Yes
+CUST0047,Clara,18.0,Female,Sumatera Utara,2023-10-05,338clara@example.com,08728218646,Yes
+CUST0048,Kawaya,22.0,Male,Kalimantan Utara,2024-10-10,rahayugarang@example.org,083240371591,No
+CUST0049,Zelaya,50.0,Female,Bali,2024-05-18,zelaya_91@example.com,08868171210,No
+CUST0050,Azalea,21.0,Female,Sumatera Barat,2024-04-10,nardipermata@example.com,0815333503759,Yes
+CUST0051,Laras,55.0,Female,Jawa Timur,2024-07-03,silvia38@example.net,08158732552,No
+CUST0052,Baktiono,62.0,Male,Lampung,2025-05-10,12baktiono@example.com,0828457211,No
+CUST0053,Gading,19.0,Male,Kalimantan Utara,2025-08-31,gading626@example.com,08337068115,No
+CUST0054,Shania,65.0,Female,Kepulauan Bangka Belitung,2024-06-27,xhartati@example.net,0876368513,Yes
+CUST0055,Ajeng,47.0,Female,Papua Barat,2024-02-23,lilisusanti@example.org,0824638791959,No
+CUST0056,Emong,39.0,Male,Bali,2025-06-28,emong132@example.com,08896929596,Yes
+CUST0057,Panca,42.0,Male,Sumatera Utara,2024-05-23,panca67@example.com,0855347885,Yes
+CUST0058,Yunita,65.0,Female,Sulawesi Barat,2024-01-29,yunita_84@example.com,082173919096,Yes
+CUST0059,Eko,,Male,Sulawesi Selatan,2025-07-07,teddy33@example.net,082140921512,Yes
+CUST0060,Devi,63.0,Female,Kepulauan Bangka Belitung,2024-05-29,wakiman15@example.org,0816841884897,No
+CUST0061,Siska,29.0,Female,Sumatera Utara,2025-04-28,siska_1@example.com,0861273194,No
+CUST0062,Siti,53.0,Female,Banten,2025-02-07,206siti@example.com,0809986352,Yes
+CUST0063,Muni,23.0,Male,Jawa Timur,2025-04-25,eprabowo@example.org,08136636469,Yes
+CUST0064,Diah,36.0,Female,Nusa Tenggara Barat,2024-09-15,592diah@example.com,08743750197,Yes
+CUST0065,Perkasa,26.0,Male,Kalimantan Timur,2025-01-03,estionoprasetya@example.org,08243403277,No
+CUST0066,Victoria,30.0,Female,Banten,2025-06-07,saragihdacin@example.org,083711225862,Yes
+CUST0067,Anita,49.0,Female,DKI Jakarta,2024-10-07,anita787@example.com,088953352346,No
+CUST0068,Ade,28.0,Male,Papua,2024-04-01,maryatisuci@example.org,0870339210,Yes
+CUST0069,Ratna,40.0,Female,Papua Barat,2024-03-13,447ratna@example.com,081610611457,Yes
+CUST0070,Tari,20.0,Female,Kalimantan Tengah,2024-10-16,tari_19@example.com,0866257998,Yes
+CUST0071,Faizah,60.0,Female,,2024-12-09,hwidiastuti@example.com,0898502533,Yes
+CUST0679,Jayadi,46.0,Male,Kepulauan Bangka Belitung,2025-09-20,998jayadi@example.com,084642406422,No
+CUST0072,Bagus,59.0,Male,Papua Barat,2024-08-29,dmahendra@example.com,0810909634929,No
+CUST0073,Ajeng,58.0,Female,Sumatera Barat,2024-10-31,uandriani@example.com,0812382618,Yes
+CUST0074,Gawati,28.0,Female,Banten,2025-08-07,gawati485@example.com,083172254204,Yes
+CUST0075,Salman,45.0,Male,Papua Barat,2024-11-17,salman705@example.com,0896248430344,No
+CUST0076,Novi,41.0,Female,,2024-06-21,eka06@example.com,0825670214,Yes
+CUST0077,Najib,42.0,Male,Maluku Utara,2025-04-29,najib_62@example.com,0839771409193,No
+CUST0078,Jail,62.0,Male,Kalimantan Timur,2025-02-06,jail373@example.com,0868806727,Yes
+CUST0079,Salman,56.0,Male,Papua,2024-11-14,nardiprastuti@example.org,0889263587182,Yes
+CUST0080,Zelaya,61.0,Female,Jawa Barat,2025-04-16,pmulyani@example.com,0879430310,No
+CUST0081,Kiandra,18.0,Female,Kalimantan Utara,2024-04-23,kiandra323@example.com,0892051889,Yes
+CUST0082,Pangeran,47.0,Male,Sulawesi Tengah,2024-04-27,uwaistina@example.com,0854442638,Yes
+CUST0083,Waluyo,22.0,Male,Sumatera Selatan,2024-04-21,423waluyo@example.com,08163175135,Yes
+CUST0084,Cemeti,43.0,Male,,2024-06-10,cemani42@example.org,082769374044,Yes
+CUST0085,Diana,23.0,Female,,2025-01-23,diana214@example.com,08261158450,Yes
+CUST0086,Lintang,21.0,Female,Riau,2025-04-20,gsuryatmi@example.com,087875175545,Yes
+CUST0087,Ophelia,29.0,Female,Sumatera Barat,2025-09-01,nyoman41@example.org,087576535147,No
+CUST0088,Sabar,60.0,Male,Papua,2023-10-23,jaisfarida@example.com,087828228770,No
+CUST0089,Lintang,45.0,Female,Jawa Tengah,2023-09-28,cwijayanti@example.org,088304909643,No
+CUST0090,Ade,22.0,Female,Sumatera Selatan,2025-03-07,paimanthamrin@example.com,08645712253,No
+CUST0091,Gadang,48.0,Male,,2024-01-02,gadang_44@example.com,083406335553,No
+CUST0092,Uli,39.0,Female,Sulawesi Utara,2025-02-21,ilsauwais@example.com,085301687145,Yes
+CUST0093,Syahrini,34.0,Female,,2024-07-14,hariputra@example.com,087412241378,Yes
+CUST0094,Respati,26.0,Male,Kalimantan Utara,2023-10-06,aryanimartani@example.net,08432024958,No
+CUST0095,Kayun,36.0,Male,Kalimantan Timur,2024-08-18,whastuti@example.org,0869104458,Yes
+CUST0096,Kamila,,Female,Nusa Tenggara Barat,2024-08-09,kamila440@example.com,08886490325,No
+CUST0097,Hasna,57.0,Female,Kalimantan Barat,2024-04-13,hasna_36@example.com,08523325335,No
+CUST0098,Darmana,20.0,Male,Lampung,2024-07-13,janewibowo@example.net,087578356078,Yes
+CUST0099,Nardi,46.0,Male,Papua Barat,2024-05-09,564nardi@example.com,0842270801734,Yes
+CUST0100,Gangsar,33.0,Male,Maluku Utara,2024-10-18,mahendraviman@example.org,083883350165,Yes
+CUST0101,Unjani,44.0,Female,Bengkulu,2024-08-25,pangestu31@example.com,0858832347094,No
+CUST0102,Darmana,34.0,Male,Sumatera Utara,2024-10-06,keneskurniawan@example.com,08731410728,Yes
+CUST0522,Lurhur,34.0,Male,Papua,2024-08-14,andrianidimas@example.org,08739118659,Yes
+CUST0103,Eva,33.0,Female,Riau,2024-08-12,106eva@example.com,0841163644257,No
+CUST0104,Cinta,29.0,Female,Sulawesi Selatan,2025-09-19,labuh06@example.net,080353584528,Yes
+CUST0105,Nabila,39.0,Female,Sulawesi Utara,2025-06-05,agus50@example.org,0836201825,Yes
+CUST0412,Tira,65.0,Female,Riau,2024-12-22,tira_61@example.com,0840843370,No
+CUST0106,Febi,52.0,Female,Sumatera Utara,2025-08-10,febi307@example.com,085506901946,No
+CUST0107,Xanana,35.0,Male,Sulawesi Selatan,2024-04-27,xanana906@example.com,08836361564,Yes
+CUST0108,Laila,23.0,Female,Papua Barat,2025-01-15,laila_12@example.com,0870295902,Yes
+CUST0109,Elisa,20.0,Female,Riau,2025-08-18,emaskuswandari@example.com,0826103819,No
+CUST0110,Amelia,22.0,Female,Jambi,2025-01-26,vanesamaulana@example.org,0877164551,Yes
+CUST0111,Zaenab,21.0,Female,Kalimantan Barat,2024-05-22,dongoranelvina@example.com,0847282814730,Yes
+CUST0112,Hana,26.0,Female,Kepulauan Bangka Belitung,2024-05-27,hana71@example.com,0830340547,No
+CUST0113,Luis,44.0,Male,Jawa Timur,2025-02-02,luis_78@example.com,0807226070,Yes
+CUST0114,Bakijan,46.0,Male,Kalimantan Selatan,2025-03-19,bakijan716@example.com,0811045815,Yes
+CUST0115,Febi,60.0,Female,,2023-12-18,853febi@example.com,0834936269296,Yes
+CUST0116,Safina,37.0,Female,Kalimantan Barat,2023-12-19,eli60@example.net,0836530994,Yes
+CUST0117,Heru,46.0,Male,Nusa Tenggara Timur,2025-03-01,heru_59@example.com,08442400531,No
+CUST0137,Faizah,58.0,Female,Sulawesi Tenggara,2025-02-15,faizah137@example.com,0824030244596,Yes
+CUST0118,Wisnu,39.0,Male,Papua,2025-08-30,susantiokto@example.org,0888016519033,Yes
+CUST0119,Usyi,29.0,Female,Sulawesi Selatan,2024-06-03,winarnoharsaya@example.com,082820682864,No
+CUST0120,Indah,46.0,Female,Nusa Tenggara Timur,2025-04-05,pangestumaida@example.org,086760383725,Yes
+CUST0121,Rachel,43.0,Female,Sulawesi Utara,2024-08-13,fkuswoyo@example.com,085694551033,Yes
+CUST0122,Putri,21.0,Female,Kalimantan Barat,2024-09-10,mustofakamal@example.com,0877723734,Yes
+CUST0123,Budi,25.0,Male,Kalimantan Timur,2024-07-30,daniswarafujiati@example.org,080867052945,No
+CUST0124,Hana,46.0,Female,Kalimantan Selatan,2024-02-25,wibisonokayun@example.org,0812329994722,Yes
+CUST0125,Dian,51.0,Female,Lampung,2023-11-25,855dian@example.com,083875282295,Yes
+CUST0126,Lili,36.0,Female,Sulawesi Tenggara,2024-11-30,71lili@example.com,08056814408,Yes
+CUST0127,Pandu,33.0,Male,Jawa Tengah,2025-06-24,edi47@example.net,08077055295,Yes
+CUST0128,Restu,,Female,Sulawesi Selatan,2023-12-19,uwaisjail@example.net,084987516839,Yes
+CUST0129,Nardi,24.0,Male,Kepulauan Riau,2025-03-23,salahudinupik@example.net,087254525827,Yes
+CUST0130,Paulin,21.0,Female,,2024-10-22,osimanjuntak@example.com,087062587103,Yes
+CUST0131,Warsa,28.0,Male,Jawa Barat,2024-03-14,warsa_48@example.com,0868764954,No
+CUST0132,Fitria,37.0,Female,Sumatera Selatan,2024-03-01,endra63@example.org,0873119408752,No
+CUST0133,Kayla,27.0,Female,Kalimantan Barat,2024-03-28,winarsihkarimah@example.net,085520127461,Yes
+CUST0134,Hasna,35.0,Female,Maluku Utara,2024-03-01,pangestumahmud@example.com,089859502185,Yes
+CUST0135,Eluh,33.0,Male,Jawa Timur,2025-07-10,faizahgunawan@example.com,08445380044,No
+CUST0136,Anggabaya,,Male,Gorontalo,2025-03-21,ekopuspasari@example.net,0814729402780,Yes
+CUST0137,Faizah,58.0,Female,Sulawesi Tenggara,2025-02-15,faizah137@example.com,0824030244596,Yes
+CUST0138,Wulan,45.0,Female,,2025-07-16,wulan_37@example.com,081397393326,No
+CUST0139,Ilyas,47.0,Male,Kepulauan Bangka Belitung,2024-11-05,namagaanastasia@example.net,08489315431,Yes
+CUST0140,Bambang,63.0,Male,Sumatera Utara,2025-03-30,rahmi71@example.org,0806004381324,No
+CUST0141,Hasna,35.0,Female,Jambi,2024-07-12,hasna_96@example.com,0808350211395,Yes
+CUST0142,Ami,42.0,Female,,2023-12-12,ytamba@example.net,084571050970,Yes
+CUST0143,Rini,18.0,Female,Gorontalo,2025-01-29,319rini@example.com,0859832791,Yes
+CUST0144,Olga,49.0,Male,Aceh,2024-04-04,586olga@example.com,0824500893,Yes
+CUST0145,Kamila,49.0,Female,Kepulauan Riau,2024-12-09,kamila301@example.com,0874823735747,No
+CUST0146,Jatmiko,58.0,Male,Papua,2023-12-29,jagahakim@example.net,085532539518,Yes
+CUST0147,Puput,44.0,Female,Sulawesi Tengah,2023-11-20,indrayuliarti@example.net,0888963677419,Yes
+CUST0148,Candrakanta,34.0,Male,Aceh,2025-09-22,ian38@example.org,08454479725,Yes
+CUST0149,Puti,45.0,Female,Sulawesi Selatan,2025-01-14,790puti@example.com,0844664817759,Yes
+CUST0150,Ganep,62.0,Male,Papua Barat,2025-07-01,drajatdamanik@example.net,0810709870971,No
+CUST0151,Baktiadi,50.0,Male,Lampung,2024-06-02,sakti91@example.org,083052760224,Yes
+CUST0152,Sadina,40.0,Female,Kalimantan Utara,2024-07-16,873sadina@example.com,08246809152,Yes
+CUST0153,Lembah,61.0,Male,Banten,2025-09-17,gsuartini@example.org,0870743819862,Yes
+CUST0154,Cahyanto,26.0,Male,Sumatera Selatan,2025-09-04,cahyanto_97@example.com,08681560169,Yes
+CUST0155,Cindy,27.0,Female,Jawa Timur,2025-02-11,cindy_34@example.com,0845121421,No
+CUST0156,Jamalia,27.0,Female,Jawa Tengah,2024-03-19,pudjiastutidariati@example.org,0815685193,Yes
+CUST0157,Tasnim,29.0,Male,Kalimantan Barat,2023-12-05,jamil78@example.com,0806558834,Yes
+CUST0158,Sadina,26.0,Female,Lampung,2025-04-19,sadina_36@example.com,0878596750158,Yes
+CUST0159,Padmi,32.0,Female,Gorontalo,2024-11-21,bakiman29@example.com,0867591798,Yes
+CUST0160,Lasmanto,38.0,Male,Maluku,2024-02-06,lasmanto_15@example.com,083173161135,No
+CUST0161,Narji,23.0,Male,Jambi,2025-08-14,safitriqueen@example.net,0804466686537,Yes
+CUST0162,Natalia,56.0,Female,Jawa Barat,2024-01-01,budimaulana@example.org,0893722470,Yes
+CUST0163,Jelita,31.0,Female,Bali,2025-01-28,jelita241@example.com,088972804026,Yes
+CUST0164,Rini,61.0,Female,Sulawesi Tengah,2023-12-14,eoktaviani@example.com,0815359220,Yes
+CUST0165,Pangeran,58.0,Male,Kepulauan Bangka Belitung,2025-09-20,ranggamaulana@example.net,08556607041,Yes
+CUST0166,Nadia,61.0,Female,Kalimantan Selatan,2025-01-21,600nadia@example.com,0832707742619,No
+CUST0167,Kajen,52.0,Male,Kalimantan Selatan,2025-02-09,unggulwijayanti@example.com,0813304169,Yes
+CUST0168,Laila,38.0,Female,Jawa Barat,2025-05-27,laryani@example.org,083741637430,Yes
+CUST0169,Unggul,50.0,Male,Kalimantan Timur,2024-02-04,stamba@example.com,0828121504,Yes
+CUST0170,Citra,51.0,Female,Sumatera Utara,2025-02-09,citra535@example.com,0800197278,Yes
+CUST0171,Cahyono,18.0,Male,Kalimantan Tengah,2024-02-20,oktavianiian@example.net,088904104083,No
+CUST0172,Martani,39.0,Male,Jawa Barat,2023-11-19,jhutasoit@example.org,0834167614748,Yes
+CUST0173,Edi,46.0,Male,,2024-04-15,balijan55@example.org,0812844433,Yes
+CUST0174,Rahayu,43.0,Female,Sulawesi Tenggara,2025-03-16,upangestu@example.com,0806899922,Yes
+CUST0175,Dartono,52.0,Male,,2025-02-15,harsanto83@example.com,0889953743153,Yes
+CUST0176,Rika,42.0,Female,Kalimantan Barat,2025-04-01,gunartomanah@example.com,08532955115,Yes
+CUST0177,Tiara,45.0,Female,DKI Jakarta,2024-07-22,dongoransabar@example.org,0876048071,Yes
+CUST0178,Salwa,26.0,Female,Kalimantan Timur,2025-03-04,331salwa@example.com,0806277560,Yes
+CUST0179,Yahya,22.0,Male,Riau,2024-06-18,warsita32@example.org,08908826171,Yes
+CUST0180,Raditya,46.0,Male,Kepulauan Riau,2023-09-30,raditya_30@example.com,0813773020,Yes
+CUST0181,Balapati,41.0,Male,Sulawesi Tengah,2024-12-28,aoktaviani@example.org,0801579901601,No
+CUST0182,Adinata,55.0,Male,Jambi,2025-07-17,zuwais@example.com,0826889627918,Yes
+CUST0183,Dian,36.0,Female,Gorontalo,2024-09-13,dian_86@example.com,0870256529127,No
+CUST0184,Cemplunk,56.0,Male,Kepulauan Bangka Belitung,2024-01-15,usyifujiati@example.com,0874704487,Yes
+CUST0185,Silvia,52.0,Female,Nusa Tenggara Barat,2024-07-21,fpradipta@example.com,0834680358,Yes
+CUST0186,Karsana,46.0,Male,Jawa Barat,2025-02-26,karsana52@example.com,081598028596,Yes
+CUST0187,Maimunah,59.0,Female,Papua,2024-07-28,pwidiastuti@example.com,0851838173923,No
+CUST0188,Irfan,55.0,Male,Maluku,2025-08-28,irfan_43@example.com,084072435632,No
+CUST0189,Prabowo,59.0,Male,Kepulauan Riau,2024-02-05,rajasayulia@example.org,08876946141,No
+CUST0190,Candrakanta,52.0,Male,Bengkulu,2025-04-01,martakasiregar@example.net,08518769180,Yes
+CUST0191,Luluh,27.0,Male,DI Yogyakarta,2025-07-15,gandasetiawan@example.com,086559461299,Yes
+CUST0192,Maimunah,19.0,Female,Riau,2024-01-22,maimunah_70@example.com,082098841066,Yes
+CUST0193,Kasiyah,45.0,Female,Sulawesi Barat,2025-04-28,537kasiyah@example.com,08096683515,No
+CUST0194,Victoria,24.0,Female,Sulawesi Tenggara,2024-11-05,111victoria@example.com,0891433074528,Yes
+CUST0195,Genta,42.0,Female,Jawa Tengah,2024-03-04,404genta@example.com,08302727589,No
+CUST0196,Kenes,59.0,Male,Kepulauan Riau,2025-09-11,kenes456@example.com,0845887386,No
+CUST0197,Dono,61.0,Male,Sumatera Barat,2024-05-25,sudiatihadi@example.org,08843428145,Yes
+CUST0198,Kasiran,36.0,Male,Lampung,2025-08-01,astutidaliman@example.net,0844521615678,Yes
+CUST0199,Daliono,45.0,Male,,2024-08-18,widiastutiyulia@example.net,089234334959,Yes
+CUST0200,Ade,21.0,Male,Bali,2024-09-04,adinata37@example.net,08011442065,No
+CUST0201,Genta,64.0,Female,Sumatera Utara,2024-02-07,manah38@example.com,0833189960,No
+CUST0202,Kayla,51.0,Female,Jawa Timur,2024-01-01,785kayla@example.com,0896148976,No
+CUST0203,Diah,51.0,Female,Jawa Timur,2024-07-24,426diah@example.com,0878555975188,Yes
+CUST0204,Estiawan,18.0,Male,Nusa Tenggara Timur,2025-07-26,estiawan903@example.com,0842441390,Yes
+CUST0205,Gamani,56.0,Male,Jambi,2024-05-22,kuswoyobudi@example.com,0839448321,Yes
+CUST0206,Ulya,48.0,Female,Jawa Barat,2024-12-11,ulya858@example.com,082253308575,Yes
+CUST0207,Vero,63.0,Male,Kalimantan Timur,2025-09-17,caket74@example.com,08920532840,No
+CUST0208,Restu,32.0,Female,Sumatera Selatan,2024-11-17,ihsansuartini@example.com,0875783321,Yes
+CUST0209,Hafshah,58.0,Female,Sumatera Barat,2025-09-23,hafshah522@example.com,08514025745,No
+CUST0210,Gamanto,63.0,Male,Jawa Tengah,2023-10-12,gamanto891@example.com,080338818657,Yes
+CUST0211,Nadia,23.0,Female,Sumatera Barat,2024-08-07,bnajmudin@example.com,0805548983599,Yes
+CUST0212,Pia,25.0,Female,Jawa Barat,2025-01-10,situmorangliman@example.com,08764053867,No
+CUST0213,Cornelia,38.0,Female,,2025-01-31,setiawanpadmi@example.org,082199034845,Yes
+CUST0214,Kasusra,52.0,Male,Jawa Tengah,2024-04-24,siregarmichelle@example.com,0829560949,Yes
+CUST0215,Tari,39.0,Female,Kalimantan Timur,2024-04-16,kardihalim@example.com,0899279768,Yes
+CUST0216,Pranawa,34.0,Male,Maluku Utara,2024-07-18,cengkiruyainah@example.net,083421440455,No
+CUST0217,Vivi,25.0,Female,Sumatera Utara,2025-03-19,qoriwijayanti@example.com,0822939648,Yes
+CUST0218,Reksa,18.0,Male,Kalimantan Tengah,2024-10-17,eutami@example.net,08010982253,Yes
+CUST0219,Ratna,23.0,Female,Sumatera Selatan,2025-02-14,ratna_61@example.com,08592886328,No
+CUST0220,Eman,38.0,Male,Maluku Utara,2024-08-13,musamah@example.net,08351954443,Yes
+CUST0221,Mila,28.0,Female,Sumatera Selatan,2025-04-03,puspitamakuta@example.com,089536839897,Yes
+CUST0222,Nrima,37.0,Male,Sulawesi Tenggara,2025-09-06,nrima_15@example.com,0820303505924,No
+CUST0223,Artanto,,Male,Aceh,2023-11-12,gunartomaida@example.org,08579114663,Yes
+CUST0224,Cengkal,19.0,Male,Sulawesi Tengah,2024-10-09,safinafirgantoro@example.com,0803372425148,Yes
+CUST0225,Cahya,37.0,Male,Jawa Tengah,2024-11-16,cahya_1@example.com,0848801281,No
+CUST0226,Kasiran,47.0,Male,Lampung,2025-01-14,kajenharyanti@example.org,08017283733,Yes
+CUST0227,Gamblang,46.0,Male,Kalimantan Timur,2023-12-04,timbuldamanik@example.com,083336257772,Yes
+CUST0228,Elisa,60.0,Female,Papua Barat,2024-05-06,963elisa@example.com,08028841172,Yes
+CUST0229,Vivi,63.0,Female,Aceh,2024-08-29,vivi_72@example.com,08951128138,No
+CUST0230,Vicky,42.0,Female,DI Yogyakarta,2025-07-07,vsuryono@example.org,08449897435,Yes
+CUST0231,Margana,47.0,Male,Sumatera Utara,2023-10-31,margana_57@example.com,080091857428,Yes
+CUST0232,Jamil,60.0,Male,,2024-12-21,harihutapea@example.net,0826116797,Yes
+CUST0233,Jamalia,20.0,Female,DI Yogyakarta,2025-07-19,damanikdarijan@example.net,08762462237,Yes
+CUST0234,Zamira,56.0,Female,Nusa Tenggara Timur,2024-06-18,zamira_12@example.com,0845518329,Yes
+CUST0235,Jefri,43.0,Male,Aceh,2024-03-18,jatmikorajasa@example.org,08443780824,Yes
+CUST0236,Leo,,Male,Sumatera Selatan,2025-08-19,jagaragasaputra@example.net,0816809421,Yes
+CUST0237,Jarwa,40.0,Male,DKI Jakarta,2024-12-27,jarwa_96@example.com,085570492473,Yes
+CUST0238,Darijan,54.0,Male,Sumatera Barat,2024-05-23,uprakasa@example.org,08425816385,Yes
+CUST0239,Galuh,36.0,Male,Sumatera Barat,2024-08-19,mulyaniida@example.com,0879467312863,Yes
+CUST0240,Carla,46.0,Female,Sulawesi Utara,2024-06-21,danang48@example.net,081857955969,Yes
+CUST0241,Candra,35.0,Male,Kalimantan Barat,2024-09-07,candra_63@example.com,0869455115,No
+CUST0242,Mala,55.0,Female,Sulawesi Tenggara,2023-12-19,mala73@example.com,0833847702,No
+CUST0243,Calista,51.0,Female,,2025-04-01,calista602@example.com,0871806674460,No
+CUST0244,Bala,39.0,Male,Sumatera Selatan,2025-02-15,ldongoran@example.com,083028298440,Yes
+CUST0245,Cahyanto,22.0,Male,Sulawesi Utara,2025-05-03,cahyanto_84@example.com,081900280197,Yes
+CUST0246,Caket,65.0,Male,Sulawesi Tengah,2025-03-09,caket_32@example.com,08224646257,No
+CUST0247,Mala,54.0,Female,Sumatera Selatan,2024-04-24,esiregar@example.org,080063702516,Yes
+CUST0248,Nadine,20.0,Female,Kepulauan Bangka Belitung,2024-01-17,nadine_31@example.com,081799475516,No
+CUST0249,Ridwan,52.0,Male,Lampung,2025-05-16,ellishidayat@example.com,0825198650407,Yes
+CUST0250,Halim,33.0,Male,Bengkulu,2025-09-13,omarbun@example.com,0858732327,No
+CUST0251,Prima,,Male,Sulawesi Selatan,2024-09-02,putu16@example.net,0869004782947,No
+CUST0252,Anastasia,62.0,Female,Gorontalo,2025-01-20,dabukkeeluh@example.net,083372152995,No
+CUST0253,Yono,19.0,Male,Kalimantan Selatan,2024-01-12,jailsinaga@example.org,08673305470,Yes
+CUST0254,Uchita,,Female,Kalimantan Utara,2024-10-21,kartika75@example.net,0868108247332,Yes
+CUST0255,Kurnia,51.0,Male,Maluku,2024-12-18,kurnia477@example.com,08116801400,No
+CUST0256,Baktiono,35.0,Male,DKI Jakarta,2024-11-17,ksinaga@example.net,0830308525498,No
+CUST0257,Hendri,32.0,Male,Sulawesi Tenggara,2023-10-05,opan96@example.com,0873653335,Yes
+CUST0258,Banara,62.0,Male,Maluku,2025-04-29,mangunsongcakrabuana@example.com,08273368835,Yes
+CUST0259,Jindra,27.0,Male,Jawa Timur,2024-02-08,jindra_70@example.com,0803517580038,Yes
+CUST0260,Prima,48.0,Male,DKI Jakarta,2024-01-24,prima_12@example.com,0800328569612,Yes
+CUST0261,Zahra,59.0,Female,Sumatera Utara,2025-04-07,zahra57@example.com,08886360522,Yes
+CUST0262,Luis,44.0,Male,,2024-11-21,tasnimhalimah@example.net,0818973258242,Yes
+CUST0263,Kemal,30.0,Male,Lampung,2024-10-11,kemal_42@example.com,08805015029,Yes
+CUST0264,Sarah,,Female,DKI Jakarta,2025-01-12,sarah_50@example.com,0859373944,Yes
+CUST0265,Ghaliyati,62.0,Female,Aceh,2023-12-29,ghaliyati459@example.com,0852749808460,No
+CUST0266,Bahuraksa,23.0,Male,,2024-05-22,kacungkuswoyo@example.net,084553407556,No
+CUST0267,Silvia,38.0,Female,Jawa Timur,2023-09-30,silvia_18@example.com,08903422604,Yes
+CUST0268,Hani,23.0,Female,Papua Barat,2025-02-27,tprakasa@example.net,081743287757,Yes
+CUST0269,Sadina,44.0,Female,Jawa Timur,2024-10-12,margana53@example.net,08268669512,Yes
+CUST0661,Puji,32.0,Female,DI Yogyakarta,2025-09-05,puji_62@example.com,082263520270,Yes
+CUST0270,Leo,25.0,Male,Maluku Utara,2025-08-03,galih47@example.net,0820281741512,Yes
+CUST0271,Gawati,51.0,Female,Banten,2024-07-11,gawati_73@example.com,08541771848,Yes
+CUST0272,Asirwanda,41.0,Male,Aceh,2025-08-14,gandi95@example.net,08227568258,Yes
+CUST0273,Eva,61.0,Female,DI Yogyakarta,2025-06-08,455eva@example.com,08944474510,Yes
+CUST0274,Ismail,29.0,Male,Papua Barat,2023-10-15,uwaisbudi@example.org,08949460278,No
+CUST0275,Gilda,37.0,Female,Jawa Tengah,2025-01-07,nrajasa@example.com,08238397602,Yes
+CUST0276,Rafi,28.0,Male,DI Yogyakarta,2024-08-02,rafi_21@example.com,084672970984,Yes
+CUST0277,Cornelia,25.0,Female,Sulawesi Utara,2023-10-10,cornelia_87@example.com,0819167285,No
+CUST0278,Betania,47.0,Female,Lampung,2024-06-24,wkusumo@example.net,08143069505,Yes
+CUST0279,Timbul,46.0,Male,Kepulauan Bangka Belitung,2024-04-29,timbul354@example.com,0803956658952,No
+CUST0280,Diah,22.0,Female,Nusa Tenggara Barat,2023-11-14,diah_65@example.com,08054289074,Yes
+CUST0281,Latika,42.0,Female,Kepulauan Riau,2025-02-26,bakidin99@example.com,08873633240,No
+CUST0282,Usyi,40.0,Female,Sulawesi Utara,2025-09-10,bpratama@example.com,0886432118636,Yes
+CUST0283,Rahmi,60.0,Female,Jambi,2025-05-23,yuliantirachel@example.org,086602528020,Yes
+CUST0284,Hafshah,20.0,Female,Papua,2025-08-18,tasnim45@example.com,0806882584073,No
+CUST0285,Yahya,58.0,Male,Nusa Tenggara Barat,2024-12-15,jaswadi78@example.org,0832317633905,Yes
+CUST0286,Yuni,56.0,Female,Riau,2023-09-27,handayanirafi@example.net,0872532302,Yes
+CUST0287,Cemplunk,57.0,Male,Maluku Utara,2025-05-26,wulandariajeng@example.org,08276655433,No
+CUST0288,Labuh,58.0,Male,Kalimantan Utara,2024-09-27,julia04@example.net,0896147647021,No
+CUST0289,Anita,21.0,Female,,2024-06-30,ayusalahudin@example.net,0839364471,No
+CUST0290,Darijan,49.0,Male,Maluku,2024-09-10,darijan_53@example.com,08426706436,No
+CUST0291,Diah,55.0,Female,Banten,2025-04-03,maryadicinthia@example.net,0854348815388,Yes
+CUST0292,Usyi,58.0,Female,Aceh,2025-07-16,usyi645@example.com,080359275009,Yes
+CUST0293,Abyasa,50.0,Male,Aceh,2025-04-12,wibisonocaraka@example.com,08436160362,Yes
+CUST0294,Padma,49.0,Female,Kalimantan Selatan,2025-06-22,ppuspasari@example.org,086895487942,Yes
+CUST0295,Garan,58.0,Male,Gorontalo,2025-08-24,cindyfarida@example.net,0844385758895,Yes
+CUST0296,Pangeran,,Male,Aceh,2024-06-11,aminashiruddin@example.net,083882910039,Yes
+CUST0297,Cornelia,60.0,Female,Nusa Tenggara Timur,2023-12-07,cornelia794@example.com,089769605649,Yes
+CUST0298,Samsul,19.0,Male,Maluku Utara,2024-11-30,801samsul@example.com,08709768172,No
+CUST0299,Hartana,55.0,Male,Nusa Tenggara Barat,2025-03-04,utamigara@example.com,0862127314,Yes
+CUST0300,Kala,46.0,Male,Papua,2023-11-30,zmahendra@example.com,0885486479,Yes
+CUST0301,Dalima,41.0,Female,Papua,2025-05-13,jaswadi17@example.net,08674199780,Yes
+CUST0302,Emin,21.0,Male,Papua,2023-11-14,estiono40@example.net,08792863212,Yes
+CUST0303,Mulyono,47.0,Male,Sulawesi Tengah,2024-04-16,usamahjaya@example.org,080420695941,Yes
+CUST0304,Ellis,22.0,Female,Bali,2024-06-29,ellis_94@example.com,0869204824992,No
+CUST0305,Rahayu,36.0,Female,Papua,2025-06-18,982rahayu@example.com,083919474704,Yes
+CUST0306,Carub,57.0,Male,Sulawesi Utara,2023-12-17,daliminlatupono@example.org,087875516558,Yes
+CUST0307,Taswir,38.0,Male,Sulawesi Selatan,2025-05-20,luis81@example.net,080196730898,Yes
+CUST0308,Argono,36.0,Male,Bali,2025-04-30,argono_43@example.com,083237744701,Yes
+CUST0309,Yunita,57.0,Female,Banten,2025-07-16,511yunita@example.com,08186526753,No
+CUST0310,Ophelia,25.0,Female,Kalimantan Timur,2024-08-12,ophelia_45@example.com,080192242777,No
+CUST0311,Melinda,18.0,Female,Papua Barat,2024-07-04,696melinda@example.com,0803883987,Yes
+CUST0312,Ami,39.0,Female,Lampung,2024-12-29,310ami@example.com,084197924773,No
+CUST0313,Paiman,55.0,Male,Kepulauan Bangka Belitung,2024-01-03,paiman_5@example.com,0884555318,No
+CUST0314,Aisyah,30.0,Female,Jawa Tengah,2025-04-14,windasafitri@example.com,0822987951505,Yes
+CUST0315,Ihsan,50.0,Male,Sumatera Utara,2024-10-18,ihsan_30@example.com,0888204300,Yes
+CUST0316,Widya,56.0,Female,Jawa Barat,2024-02-13,sakurafirmansyah@example.net,0824035485,No
+CUST0317,Kartika,55.0,Female,Sumatera Selatan,2024-05-25,kartika_58@example.com,0875733077,No
+CUST0318,Tina,40.0,Female,,2024-02-05,ykuswandari@example.org,084458373349,No
+CUST0319,Maria,64.0,Female,Banten,2023-10-26,maria754@example.com,0824253918851,Yes
+CUST0320,Jail,32.0,Male,Sumatera Utara,2024-02-26,wasis15@example.net,088492890760,No
+CUST0321,Cindy,65.0,Female,Sumatera Barat,2024-06-05,agustinanardi@example.net,0890892127948,Yes
+CUST0322,Arsipatra,28.0,Male,Sumatera Utara,2025-02-06,449arsipatra@example.com,0822957621,No
+CUST0323,Jayadi,52.0,Male,Kepulauan Riau,2025-04-06,616jayadi@example.com,082247322877,Yes
+CUST0324,Tania,,Female,Papua Barat,2024-11-19,kayunmansur@example.org,0826931207,Yes
+CUST0325,Warta,42.0,Male,Gorontalo,2025-06-02,dadihardiansyah@example.org,08868214335,Yes
+CUST0326,Sakura,28.0,Female,Kepulauan Bangka Belitung,2024-06-19,pujihakim@example.net,0871976418237,Yes
+CUST0327,Unjani,38.0,Female,Sumatera Utara,2024-01-07,uchita20@example.com,0875477401,Yes
+CUST0328,Laras,56.0,Female,Maluku Utara,2024-11-13,zpertiwi@example.org,0873791139,No
+CUST0329,Lili,,Female,Bengkulu,2023-11-29,edi88@example.com,0829276468,No
+CUST0330,Tomi,50.0,Male,Jambi,2024-09-11,tomi314@example.com,0841803114525,Yes
+CUST0331,Bagya,18.0,Male,Lampung,2023-10-22,bagya229@example.com,0813015612910,Yes
+CUST0332,Xanana,44.0,Male,Jawa Barat,2025-07-04,jaya54@example.net,0883137677,Yes
+CUST0333,Uchita,57.0,Female,Lampung,2023-11-23,dodo12@example.com,0808549593,Yes
+CUST0334,Koko,38.0,Male,DKI Jakarta,2024-10-10,750koko@example.com,089348119288,No
+CUST0335,Jumari,35.0,Male,Sumatera Selatan,2024-04-21,jumari_60@example.com,0883418312,Yes
+CUST0336,Natalia,58.0,Female,Kepulauan Riau,2024-09-18,wastutitaswir@example.net,0896676718,Yes
+CUST0337,Tri,57.0,Male,Jambi,2023-11-25,vnugroho@example.com,0882781095,Yes
+CUST0338,Jamalia,27.0,Female,Riau,2025-01-14,uwulandari@example.org,0808836427,Yes
+CUST0339,Jaiman,40.0,Male,Jambi,2024-03-31,jaiman_35@example.com,08270725240,Yes
+CUST0340,Karen,32.0,Female,Kalimantan Tengah,2025-04-21,marbunnovi@example.net,088228248338,Yes
+CUST0341,Sabrina,55.0,Female,Bengkulu,2024-07-22,wulandariulva@example.com,084628383807,Yes
+CUST0342,Maman,47.0,Male,Kalimantan Utara,2025-06-02,buyainah@example.net,0821419857,Yes
+CUST0343,Pardi,57.0,Male,Jawa Tengah,2025-06-16,pardi986@example.com,08225052536,Yes
+CUST0344,Lasmanto,53.0,Male,Bengkulu,2024-07-12,lasmanto_70@example.com,08015419797,No
+CUST0345,Adinata,42.0,Male,DKI Jakarta,2025-01-23,daliminuyainah@example.com,08555432892,Yes
+CUST0346,Zahra,41.0,Female,Aceh,2023-09-28,rafihutagalung@example.net,0858491715809,Yes
+CUST0347,Janet,62.0,Female,Maluku,2023-12-11,mardhiyahirnanto@example.com,08340744623,Yes
+CUST0348,Ellis,39.0,Female,,2025-04-21,nainggolanasirwanda@example.org,0818027703691,No
+CUST0349,Ivan,44.0,Male,Banten,2024-04-05,luhungmardhiyah@example.com,0858623637,Yes
+CUST0350,Warji,59.0,Male,Papua,2024-07-09,isitorus@example.com,08018883758,Yes
+CUST0351,Zamira,58.0,Female,Sumatera Barat,2025-09-20,sihombingjamalia@example.com,086661921950,No
+CUST0352,Jaswadi,33.0,Male,Kalimantan Tengah,2024-08-23,ibrahim30@example.com,089876235674,No
+CUST0353,Bella,,Female,Bengkulu,2025-07-10,xrahmawati@example.org,086663721052,Yes
+CUST0354,Raina,26.0,Female,Jawa Timur,2024-10-10,raina_36@example.com,08441662802,No
+CUST0355,Dalimin,38.0,Male,Jawa Timur,2025-04-15,150dalimin@example.com,085415237037,Yes
+CUST0356,Rizki,23.0,Male,Nusa Tenggara Timur,2023-10-12,twastuti@example.org,088583014075,Yes
+CUST0357,Rahmi,21.0,Female,Gorontalo,2024-12-20,capa64@example.com,0844956765,Yes
+CUST0358,Catur,25.0,Male,Kalimantan Timur,2024-08-06,qwibowo@example.net,082723594603,Yes
+CUST0359,Banawi,20.0,Male,Sumatera Selatan,2025-08-12,banawi300@example.com,0882805418150,Yes
+CUST0360,Manah,52.0,Male,,2025-05-19,irfan84@example.net,085538675090,Yes
+CUST0361,Dewi,47.0,Female,Jambi,2024-07-25,vsantoso@example.com,08778517554,No
+CUST0362,Martana,46.0,Male,Jawa Timur,2025-05-12,848martana@example.com,0807247320637,No
+CUST0363,Jumadi,57.0,Male,Nusa Tenggara Barat,2024-10-23,gamandongoran@example.net,081012563679,No
+CUST0364,Bagiya,42.0,Male,Jawa Barat,2025-04-08,540bagiya@example.com,08439662556,Yes
+CUST0365,Prakosa,63.0,Male,Kepulauan Riau,2025-09-12,lailaprastuti@example.net,0838916194,Yes
+CUST0366,Sakura,47.0,Female,Jawa Timur,2023-10-01,sakura_94@example.com,0867477592414,Yes
+CUST0367,Pandu,18.0,Male,Banten,2025-05-27,pandu_87@example.com,08704706620,Yes
+CUST0368,Karsa,36.0,Male,Nusa Tenggara Barat,2024-02-02,kuswoyoenteng@example.net,0840115569,Yes
+CUST0369,Qori,47.0,Female,Kalimantan Tengah,2023-12-29,plailasari@example.com,08272716410,Yes
+CUST0370,Kiandra,55.0,Female,,2025-02-07,572kiandra@example.com,08772086268,No
+CUST0371,Kenes,32.0,Male,Kepulauan Riau,2025-01-26,kenes_38@example.com,0842550471,No
+CUST0372,Balamantri,50.0,Male,DKI Jakarta,2024-12-15,baktiono13@example.net,08247970031,No
+CUST0373,Calista,40.0,Female,Sulawesi Tengah,2024-05-14,ega48@example.org,08910335843,Yes
+CUST0374,Taswir,41.0,Male,Gorontalo,2024-10-10,safitrijaya@example.org,08101525763,Yes
+CUST0375,Edi,37.0,Male,Sulawesi Tengah,2025-03-18,edi398@example.com,08182229699,Yes
+CUST0376,Anastasia,62.0,Female,Nusa Tenggara Timur,2024-04-30,anastasia_98@example.com,0807994537869,No
+CUST0377,Muni,41.0,Male,Kalimantan Selatan,2025-03-31,sakura57@example.com,081080728416,Yes
+CUST0378,Parman,29.0,Male,Jawa Timur,2024-05-28,wardayaramadan@example.net,0894888190974,No
+CUST0379,Jabal,27.0,Male,Sulawesi Utara,2024-03-24,476jabal@example.com,0885644962967,Yes
+CUST0380,Hesti,39.0,Female,Riau,2023-09-25,koko53@example.org,0864944620,Yes
+CUST0381,Titi,36.0,Female,Banten,2024-01-11,313titi@example.com,0898468598,Yes
+CUST0382,Maria,60.0,Female,Sulawesi Selatan,2025-01-15,maria_95@example.com,08188700177,No
+CUST0383,Halima,26.0,Female,Riau,2025-03-26,halima551@example.com,08914751794,Yes
+CUST0384,Kasiran,25.0,Male,Jawa Timur,2023-11-27,kasiran824@example.com,08489119371,Yes
+CUST0385,Zamira,28.0,Female,Kalimantan Tengah,2025-09-01,zamira3@example.com,08329181730,No
+CUST0386,Tri,59.0,Male,DKI Jakarta,2023-12-04,uwaisfebi@example.net,084721917847,Yes
+CUST0387,Fitria,41.0,Female,Kalimantan Utara,2024-09-12,kenari30@example.org,0827944885024,No
+CUST0388,Eluh,65.0,Male,Kalimantan Utara,2024-11-03,eluh_24@example.com,0899130581314,Yes
+CUST0389,Dinda,18.0,Female,Aceh,2024-06-16,yancesimbolon@example.net,080087622043,Yes
+CUST0390,Usyi,46.0,Female,Lampung,2025-01-20,hasta34@example.com,0876192329989,No
+CUST0391,Alika,50.0,Female,Sumatera Barat,2024-05-02,alika_83@example.com,0824755916,Yes
+CUST0392,Garang,,Male,Sumatera Selatan,2025-05-31,jmaryati@example.com,0878467427,Yes
+CUST0393,Unjani,62.0,Female,Kepulauan Bangka Belitung,2024-08-24,xutami@example.org,0896559483637,Yes
+CUST0394,Suci,56.0,Female,Kalimantan Utara,2025-02-28,suci803@example.com,089121742745,No
+CUST0395,Pandu,18.0,Male,DI Yogyakarta,2024-11-27,cecep55@example.org,082531773818,No
+CUST0396,Cawisadi,53.0,Male,Kepulauan Riau,2024-12-13,cawisadi484@example.com,0870654293735,No
+CUST0397,Cici,43.0,Female,Bali,2024-02-24,astutilili@example.org,0827887968,Yes
+CUST0398,Ulva,48.0,Female,Sumatera Barat,2024-09-19,995ulva@example.com,0808906905,Yes
+CUST0399,Darmana,31.0,Male,Jawa Tengah,2025-05-23,darmana_74@example.com,0898580786,Yes
+CUST0400,Warta,24.0,Male,Kalimantan Selatan,2024-09-09,safitriparman@example.org,084003957231,Yes
+CUST0401,Jamalia,32.0,Female,Kalimantan Utara,2025-03-25,gmelani@example.net,08159579167,No
+CUST0402,Fitria,48.0,Female,Sumatera Utara,2023-12-10,fitria_64@example.com,08946083224,Yes
+CUST0403,Tira,28.0,Female,DKI Jakarta,2024-06-30,842tira@example.com,080933026281,No
+CUST0404,Gasti,20.0,Female,Kepulauan Riau,2024-02-24,usyisusanti@example.net,080017775596,Yes
+CUST0405,Saka,44.0,Male,Nusa Tenggara Barat,2024-10-27,yuniarlalita@example.net,0831573672,Yes
+CUST0406,Jelita,50.0,Female,Maluku Utara,2024-10-27,ikarajata@example.com,087089135965,No
+CUST0407,Fathonah,23.0,Female,Maluku Utara,2024-06-20,setya02@example.org,0842859973888,Yes
+CUST0408,Tania,33.0,Female,,2023-12-19,tania_31@example.com,0853252996437,No
+CUST0409,Prasetyo,34.0,Male,Bali,2025-08-07,819prasetyo@example.com,0831149234,Yes
+CUST0410,Daryani,24.0,Male,Bengkulu,2024-08-10,purnawatilasmono@example.net,083249485826,Yes
+CUST0411,Yosef,61.0,Male,DKI Jakarta,2025-03-16,coktaviani@example.net,08550812083,Yes
+CUST0412,Tira,65.0,Female,Riau,2024-12-22,tira_61@example.com,0840843370,No
+CUST0413,Dirja,50.0,Male,Jawa Timur,2024-08-12,974dirja@example.com,0816007193859,Yes
+CUST0414,Prabu,50.0,Male,Jawa Tengah,2025-05-18,prabu_45@example.com,082292574055,Yes
+CUST0415,Chelsea,33.0,Female,Sumatera Barat,2024-01-13,rini70@example.net,087573679956,Yes
+CUST0416,Jono,25.0,Male,Gorontalo,2025-09-12,jono_21@example.com,081568944512,Yes
+CUST0417,Intan,36.0,Female,Kalimantan Barat,2025-02-09,intan420@example.com,0832345147,Yes
+CUST0418,Zizi,44.0,Female,Papua Barat,2024-09-01,zizi591@example.com,086753162907,Yes
+CUST0419,Salimah,63.0,Female,Riau,2024-10-12,320salimah@example.com,0871298647,Yes
+CUST0420,Eko,35.0,Male,Kalimantan Utara,2023-12-11,gnarpati@example.org,0866899360823,No
+CUST0421,Maryanto,65.0,Male,Papua Barat,2025-02-12,988maryanto@example.com,0840495399781,Yes
+CUST0422,Vicky,60.0,Female,Jambi,2024-05-01,murti19@example.net,0884002556812,Yes
+CUST0423,Kani,20.0,Female,DI Yogyakarta,2025-04-17,kani139@example.com,0875033185,Yes
+CUST0424,Adhiarja,57.0,Male,Sulawesi Utara,2025-07-26,kamal15@example.org,08404842294,Yes
+CUST0425,Eluh,,Male,DI Yogyakarta,2023-12-25,jpalastri@example.com,08586798739,Yes
+CUST0426,Hafshah,30.0,Female,Nusa Tenggara Timur,2024-02-03,jaisjailani@example.org,0840677400,Yes
+CUST0427,Ian,21.0,Male,Bali,2024-11-04,bancar95@example.net,08666828128,Yes
+CUST0428,Himawan,,Male,Maluku Utara,2024-03-15,cprakasa@example.com,081296339629,Yes
+CUST0429,Hendri,,Male,DI Yogyakarta,2024-08-15,margana84@example.net,08303439050,Yes
+CUST0430,Queen,19.0,Female,Papua,2024-06-20,nmustofa@example.net,0855282492043,No
+CUST0431,Natalia,26.0,Female,Sulawesi Tenggara,2025-02-05,natalia653@example.com,082545729955,Yes
+CUST0432,Zelda,49.0,Female,Sulawesi Barat,2025-07-21,zelda771@example.com,0845558985,Yes
+CUST0433,Jabal,52.0,Male,Gorontalo,2023-12-03,haryantodipa@example.org,0806512185,Yes
+CUST0434,Patricia,30.0,Female,Bali,2023-09-26,gadangputra@example.com,08947300872,Yes
+CUST0738,Tugiman,25.0,Male,Banten,2025-02-08,tugiman_3@example.com,08928576444,Yes
+CUST0435,Wakiman,48.0,Male,,2025-08-27,wakiman_43@example.com,083570133405,Yes
+CUST0436,Nabila,64.0,Female,Kalimantan Barat,2023-10-28,nabila_21@example.com,085261226114,Yes
+CUST0437,Almira,32.0,Female,Kepulauan Riau,2025-06-22,narpatidaru@example.net,08146612707,Yes
+CUST0438,Rendy,62.0,Male,Sulawesi Barat,2023-11-08,873rendy@example.com,0805689874,Yes
+CUST0439,Lidya,61.0,Female,Gorontalo,2023-11-29,dhidayanto@example.org,08150867620,Yes
+CUST0440,Bakiman,19.0,Male,Bali,2024-05-24,maman39@example.org,0882410899977,Yes
+CUST0441,Ghani,41.0,Male,Papua,2025-05-21,212ghani@example.com,08015760516,No
+CUST0442,Paramita,65.0,Female,Banten,2025-03-05,paramita_72@example.com,0850547114,Yes
+CUST0443,Suci,37.0,Female,Nusa Tenggara Barat,2023-12-27,onugroho@example.net,086363525835,No
+CUST0444,Gangsa,44.0,Male,Sumatera Selatan,2023-12-18,darmanto25@example.com,080939361062,No
+CUST0445,Mulyono,23.0,Male,DI Yogyakarta,2023-12-30,artantowibisono@example.org,086688214131,Yes
+CUST0446,Gabriella,36.0,Female,Kalimantan Barat,2024-03-21,gabriella_57@example.com,08742520472,Yes
+CUST0447,Nilam,58.0,Female,Banten,2024-11-29,habibiteguh@example.com,08275136523,Yes
+CUST0448,Zelaya,49.0,Female,Sulawesi Tengah,2023-12-18,zelaya_55@example.com,084761872069,Yes
+CUST0449,Edward,25.0,Male,Gorontalo,2024-12-01,rachelprasasta@example.com,0872759627397,Yes
+CUST0450,Taufik,29.0,Male,,2025-05-18,hanayuniar@example.org,0808810614,Yes
+CUST0451,Johan,28.0,Male,Sulawesi Tenggara,2025-08-16,lantar69@example.net,0818754179603,No
+CUST0452,Kadir,43.0,Male,,2024-12-31,kadir_23@example.com,0877702556434,No
+CUST0453,Restu,54.0,Female,Papua,2024-12-25,xpradana@example.com,0863919779926,Yes
+CUST0454,Praba,25.0,Male,Kepulauan Bangka Belitung,2025-03-18,usyi85@example.com,0876176290,Yes
+CUST0455,Siti,63.0,Female,Gorontalo,2025-05-07,siti_68@example.com,089015008917,No
+CUST0456,Yuni,28.0,Female,Sulawesi Tenggara,2024-09-05,pardipurnawati@example.org,0819385771,Yes
+CUST0457,Nurul,21.0,Female,Kalimantan Utara,2025-02-25,nurul999@example.com,083808406626,Yes
+CUST0458,Eka,52.0,Female,Sulawesi Tenggara,2024-01-15,eka784@example.com,0853610018,Yes
+CUST0459,Farah,41.0,Female,Banten,2025-05-04,hassanahestiono@example.org,083777898479,No
+CUST0460,Caket,37.0,Male,Papua,2025-04-10,caket_49@example.com,08042559901,No
+CUST0461,Wawan,46.0,Male,Banten,2024-09-21,mardhiyahwirda@example.com,08885034480,Yes
+CUST0462,Anita,47.0,Female,,2025-06-23,anita_19@example.com,0818292192,No
+CUST0463,Jelita,43.0,Female,Maluku,2025-03-10,dwihardiansyah@example.org,08260519603,Yes
+CUST0464,Jaga,32.0,Male,Sulawesi Tenggara,2023-11-15,jaga_20@example.com,0894333945,Yes
+CUST0465,Ana,40.0,Female,Jawa Tengah,2024-11-09,hastamaryati@example.org,081935191800,No
+CUST0466,Puji,40.0,Female,Kepulauan Riau,2024-01-05,pratiwidodo@example.net,087531723688,Yes
+CUST0467,Calista,62.0,Female,Banten,2024-04-23,calista_63@example.com,0859340774,Yes
+CUST0468,Dipa,60.0,Male,Bali,2024-05-01,gabriella55@example.com,08016619551,Yes
+CUST0469,Galih,41.0,Male,Sulawesi Barat,2024-07-24,hsantoso@example.com,08170289161,Yes
+CUST0470,Gamani,62.0,Male,Jambi,2024-12-14,kairav71@example.org,0899529360455,No
+CUST0471,Indra,26.0,Male,Aceh,2024-01-20,indra470@example.com,08995785381,Yes
+CUST0472,Widya,63.0,Female,Papua,2024-12-12,ajanuar@example.net,08013014584,Yes
+CUST0473,Tasnim,,Male,Banten,2024-06-23,tasnim_1@example.com,08906479961,Yes
+CUST0474,Ida,51.0,Female,Jawa Timur,2025-08-19,jnatsir@example.org,089394921829,Yes
+CUST0475,Jane,52.0,Female,Nusa Tenggara Barat,2024-10-05,jane_87@example.com,0821680221,Yes
+CUST0476,Gandi,40.0,Male,Bali,2025-06-15,salwa32@example.com,08831632714,Yes
+CUST0477,Ana,24.0,Female,Kalimantan Tengah,2025-08-27,yzulaika@example.org,0886572469,Yes
+CUST0478,Harjo,20.0,Male,Sulawesi Tenggara,2025-09-11,harjo994@example.com,0848331249,Yes
+CUST0479,Vera,50.0,Female,Kalimantan Tengah,2024-11-20,vera594@example.com,0862016410634,Yes
+CUST0480,Kasiyah,63.0,Female,Kalimantan Tengah,2024-11-24,xhardiansyah@example.net,08499160675,No
+CUST0481,Among,58.0,Male,Banten,2023-10-18,udaharyanti@example.com,08708656749,Yes
+CUST0482,Nadine,18.0,Female,Jawa Timur,2024-06-10,mustofa70@example.com,08534366486,No
+CUST0483,Eluh,63.0,Male,Maluku Utara,2025-06-01,471eluh@example.com,0898106586830,Yes
+CUST0484,Lalita,46.0,Female,Sulawesi Tenggara,2025-03-20,damanikajiman@example.com,0848294560564,No
+CUST0485,Nyoman,60.0,Male,Papua,2025-04-01,nyoman624@example.com,08121445073,No
+CUST0486,Lukita,44.0,Male,Riau,2025-05-22,raihansitorus@example.net,08928343770,Yes
+CUST0487,Dadi,23.0,Male,Maluku Utara,2024-06-04,220dadi@example.com,0829658156,No
+CUST0488,Ella,35.0,Female,Banten,2023-11-12,915ella@example.com,08552300799,Yes
+CUST0489,Janet,19.0,Female,Nusa Tenggara Timur,2025-05-03,janet_97@example.com,08896988511,Yes
+CUST0490,Shakila,63.0,Female,Sumatera Utara,2024-09-16,shutapea@example.net,08809258230,Yes
+CUST0491,Okto,,Male,Sulawesi Selatan,2024-05-21,miswahyudi@example.org,0822430125835,Yes
+CUST0492,Karman,54.0,Male,Papua,2023-12-09,rhalim@example.org,0820039965575,No
+CUST0493,Cemplunk,28.0,Male,Papua,2024-03-30,labuhmelani@example.net,0890846104,Yes
+CUST0494,Cawuk,25.0,Male,DI Yogyakarta,2024-06-14,107cawuk@example.com,0893158019,Yes
+CUST0495,Restu,62.0,Female,Nusa Tenggara Barat,2023-12-03,putama@example.net,086073006237,No
+CUST0496,Gambira,51.0,Male,Kalimantan Timur,2024-04-13,malikusamah@example.org,085183880978,Yes
+CUST0497,Olga,20.0,Male,Nusa Tenggara Barat,2025-09-03,nrimapalastri@example.com,08139665356,Yes
+CUST0498,Prayogo,41.0,Male,Nusa Tenggara Barat,2025-09-04,cakrabirawautama@example.net,087553646101,Yes
+CUST0499,Febi,64.0,Female,Sumatera Utara,2025-09-10,312febi@example.com,0824585846,Yes
+CUST0500,Nurul,63.0,Female,Sulawesi Tenggara,2024-06-26,khidayanto@example.org,0840216274223,No
+CUST0501,Rizki,33.0,Male,Kalimantan Tengah,2024-11-23,cinthiaadriansyah@example.org,0816417363,Yes
+CUST0502,Yance,33.0,Female,Sulawesi Barat,2023-11-10,gentamanullang@example.com,083387179800,Yes
+CUST0503,Sari,44.0,Female,Jawa Tengah,2023-10-21,yusada@example.net,084520931012,Yes
+CUST0504,Harja,55.0,Male,Nusa Tenggara Barat,2024-04-19,380harja@example.com,08173763431,Yes
+CUST0505,Farhunnisa,43.0,Female,,2024-11-30,melaniputu@example.org,083122555896,Yes
+CUST0506,Maida,23.0,Female,Sulawesi Selatan,2023-11-05,maida_35@example.com,0821489320060,Yes
+CUST0507,Tiara,50.0,Female,Kalimantan Barat,2024-03-14,umiardianto@example.com,0802694522559,Yes
+CUST0508,Cindy,31.0,Female,Aceh,2024-08-26,cindy_92@example.com,08157123413,Yes
+CUST0509,Zahra,59.0,Female,Sulawesi Tenggara,2024-12-13,hutasoitgasti@example.com,08281249016,Yes
+CUST0510,Kasusra,22.0,Male,Maluku,2024-09-26,kasusra_32@example.com,08875416832,No
+CUST0511,Daryani,30.0,Male,Jawa Timur,2024-05-14,nbudiman@example.com,0882293065457,No
+CUST0512,Suci,31.0,Female,Maluku Utara,2025-05-07,646suci@example.com,08180447176,Yes
+CUST0513,Edward,45.0,Male,Riau,2024-12-19,edward_74@example.com,0895085151,Yes
+CUST0514,Adinata,60.0,Male,Aceh,2023-12-11,bgunawan@example.net,08287301073,Yes
+CUST0515,Zaenab,30.0,Female,DKI Jakarta,2025-06-25,veraagustina@example.com,0810515180833,No
+CUST0516,Tantri,24.0,Female,Sumatera Selatan,2024-03-14,narpatinarji@example.com,080440073102,Yes
+CUST0517,Atma,58.0,Male,Maluku Utara,2024-11-16,atma_32@example.com,084202092217,Yes
+CUST0518,Puspa,44.0,Female,Lampung,2023-11-15,puspa_77@example.com,08732972729,No
+CUST0519,Hasna,47.0,Female,DI Yogyakarta,2024-04-04,vramadan@example.com,0804637235565,No
+CUST0520,Mursinin,38.0,Male,Jawa Barat,2024-04-07,941mursinin@example.com,0861790239909,Yes
+CUST0521,Gadang,26.0,Male,Maluku Utara,2023-10-04,pprayoga@example.net,082337500837,No
+CUST0522,Lurhur,34.0,Male,Papua,2024-08-14,andrianidimas@example.org,08739118659,Yes
+CUST0523,Satya,,Male,Kepulauan Riau,2025-09-03,185satya@example.com,0864794405,Yes
+CUST0524,Fitriani,20.0,Female,Riau,2024-01-31,55fitriani@example.com,087690778521,Yes
+CUST0525,Lukman,54.0,Male,Maluku,2025-03-26,lukman961@example.com,0858150160538,Yes
+CUST0526,Sabrina,33.0,Female,Sulawesi Tenggara,2024-02-26,sabrina_76@example.com,0865156246,Yes
+CUST0527,Talia,33.0,Female,Kalimantan Timur,2024-01-28,talia701@example.com,0810869442987,No
+CUST0528,Eluh,39.0,Male,Sumatera Barat,2024-05-16,karta98@example.net,0863506234,Yes
+CUST0529,Unggul,45.0,Male,Sulawesi Utara,2025-07-07,508unggul@example.com,0843088550187,Yes
+CUST0530,Bahuwirya,57.0,Male,Kalimantan Selatan,2025-01-02,opertiwi@example.com,0899274423,Yes
+CUST0531,Vanesa,18.0,Female,Sulawesi Selatan,2025-05-27,295vanesa@example.com,08205618831,No
+CUST0532,Nasrullah,38.0,Male,Kalimantan Timur,2024-02-29,intanyulianti@example.org,08637059451,Yes
+CUST0533,Gilang,58.0,Male,Sulawesi Utara,2025-01-26,998gilang@example.com,080416865056,No
+CUST0534,Arsipatra,52.0,Male,Nusa Tenggara Barat,2023-09-28,danuwacana@example.net,089158103851,Yes
+CUST0535,Padmi,,Female,Kepulauan Bangka Belitung,2024-05-16,551padmi@example.com,0835329272,Yes
+CUST0536,Jamal,57.0,Male,Aceh,2023-11-25,lutfanmaryati@example.net,0831353680,Yes
+CUST0537,Wardaya,58.0,Male,Kalimantan Timur,2024-02-15,wardaya_49@example.com,0828349372342,No
+CUST0538,Humaira,60.0,Female,Sumatera Utara,2024-10-24,empluk17@example.org,0889213175,Yes
+CUST0539,Gamanto,64.0,Male,Nusa Tenggara Timur,2024-07-24,mkusmawati@example.com,08013881015,Yes
+CUST0540,Usman,54.0,Male,Sumatera Barat,2024-01-27,adriansyahupik@example.net,08186080087,Yes
+CUST0541,Nadine,40.0,Female,,2025-04-02,910nadine@example.com,089144806208,Yes
+CUST0542,Johan,18.0,Male,Kalimantan Utara,2024-10-05,johan_22@example.com,080747150531,Yes
+CUST0543,Edi,51.0,Male,Jawa Barat,2025-03-08,yolandapandu@example.org,0893771273,No
+CUST0544,Rika,65.0,Female,Sulawesi Barat,2024-08-29,okto01@example.net,08681896170,Yes
+CUST0545,Cahyanto,33.0,Male,,2024-03-14,damanikhari@example.com,08229338944,Yes
+CUST0546,Jinawi,53.0,Male,Nusa Tenggara Barat,2025-07-30,baktiantomaryadi@example.net,0802528649861,Yes
+CUST0547,Jaka,65.0,Male,Banten,2024-05-13,khandayani@example.net,081692526382,Yes
+CUST0548,Respati,52.0,Male,Sumatera Utara,2024-04-01,respati_80@example.com,086801676795,Yes
+CUST0549,Opan,53.0,Male,Nusa Tenggara Timur,2024-04-03,jefrisimbolon@example.com,0822387264763,Yes
+CUST0550,Lanjar,45.0,Male,DI Yogyakarta,2023-12-12,lanjar34@example.com,089453698962,No
+CUST0551,Sabrina,46.0,Female,Sulawesi Utara,2024-09-13,sabrina_19@example.com,0821436524,Yes
+CUST0552,Rachel,18.0,Female,Sulawesi Utara,2023-10-29,huwais@example.com,0828346782,No
+CUST0553,Ilsa,37.0,Female,Nusa Tenggara Barat,2024-05-04,muni83@example.com,0806927372902,Yes
+CUST0554,Jabal,57.0,Male,Kalimantan Utara,2024-11-09,lutami@example.org,08876760687,Yes
+CUST0555,Dina,46.0,Female,Sulawesi Utara,2024-09-02,xsaptono@example.com,08766791515,No
+CUST0556,Uchita,32.0,Female,Kepulauan Riau,2024-11-11,uchita_41@example.com,0880585988,No
+CUST0557,Vivi,60.0,Female,DKI Jakarta,2024-11-20,vivi_70@example.com,087508446274,Yes
+CUST0558,Umi,36.0,Female,Papua,2025-09-21,umi_87@example.com,086349948799,No
+CUST0559,Chandra,32.0,Male,Riau,2025-06-15,445chandra@example.com,0841150898,Yes
+CUST0560,Ika,18.0,Female,Banten,2025-04-21,gilangriyanti@example.net,087945676325,Yes
+CUST0561,Irwan,28.0,Male,Sumatera Utara,2024-07-09,nurdiyantipuspa@example.com,082427280509,No
+CUST0562,Ellis,61.0,Female,Jawa Tengah,2025-04-06,ellis827@example.com,08403810339,Yes
+CUST0563,Nyoman,65.0,Male,Maluku,2024-06-16,479nyoman@example.com,08938539413,Yes
+CUST0564,Yulia,44.0,Female,Aceh,2023-10-13,qfujiati@example.net,0879965708691,No
+CUST0565,Dalima,47.0,Female,DKI Jakarta,2025-04-20,lwaskita@example.com,0804599441,Yes
+CUST0566,Kurnia,39.0,Male,Bengkulu,2024-10-20,kurnia_82@example.com,0822629330832,Yes
+CUST0567,Cagak,,Male,Nusa Tenggara Barat,2023-09-28,gantar77@example.com,0881592087,Yes
+CUST0568,Lidya,64.0,Female,Kepulauan Riau,2024-04-03,starihoran@example.com,083914376087,Yes
+CUST0569,Padmi,,Female,Kalimantan Barat,2025-05-04,padmi889@example.com,08574252962,Yes
+CUST0570,Jaeman,54.0,Male,Kepulauan Bangka Belitung,2025-01-18,langgengwasita@example.net,08214898882,Yes
+CUST0571,Rahmi,18.0,Female,Papua Barat,2024-07-17,laksmiwaticahyanto@example.com,0823484885,Yes
+CUST0572,Ibun,44.0,Male,Sulawesi Utara,2024-11-22,puput41@example.com,0847310206,No
+CUST0573,Putri,21.0,Female,Kepulauan Bangka Belitung,2024-05-06,hkuswandari@example.org,0843082793,No
+CUST0574,Estiawan,65.0,Male,Kalimantan Tengah,2024-05-16,estiawan_78@example.com,0856479103,Yes
+CUST0575,Silvia,46.0,Female,Kepulauan Bangka Belitung,2024-11-06,fputra@example.net,085058599965,Yes
+CUST0576,Paulin,45.0,Female,Kalimantan Timur,2023-11-11,mulyaniendra@example.net,08258644049,Yes
+CUST0577,Mursinin,37.0,Male,Kalimantan Tengah,2024-05-22,waniwastuti@example.org,081117014417,Yes
+CUST0578,Oni,35.0,Female,Sulawesi Selatan,2025-06-18,oni_60@example.com,0863946874510,No
+CUST0579,Prayogo,54.0,Male,Kalimantan Utara,2024-09-18,rahman53@example.com,0860657726952,Yes
+CUST0580,Lala,,Female,DKI Jakarta,2024-04-05,jmayasari@example.org,0809443000765,No
+CUST0581,Agnes,42.0,Female,Jawa Barat,2024-03-30,309agnes@example.com,08727289764,Yes
+CUST0582,Tina,59.0,Female,Maluku Utara,2024-06-01,oliviamaheswara@example.net,08196787938,Yes
+CUST0583,Gilda,53.0,Female,Aceh,2023-12-05,jumarisafitri@example.org,0890959121549,Yes
+CUST0584,Tedi,34.0,Male,Papua,2025-02-01,waluyoulya@example.org,0885511722670,Yes
+CUST0585,Lutfan,58.0,Male,Maluku,2024-12-05,ulipertiwi@example.com,086379130538,No
+CUST0586,Ihsan,35.0,Male,Papua,2024-06-10,wirda13@example.net,0825591487828,No
+CUST0587,Ani,48.0,Female,Kepulauan Riau,2025-04-21,ksiregar@example.org,082452288245,Yes
+CUST0588,Elisa,62.0,Female,Jawa Timur,2023-10-12,sidiqmaryadi@example.org,0856045232203,No
+CUST0589,Prayoga,44.0,Male,Lampung,2025-06-15,winarsihgadang@example.org,089712784295,Yes
+CUST0590,Kasiran,47.0,Male,Kalimantan Timur,2024-12-04,hardi57@example.com,08519926904,Yes
+CUST0591,Mitra,62.0,Male,Sulawesi Selatan,2024-11-21,mitra_96@example.com,080074153153,Yes
+CUST0592,Arta,35.0,Male,Maluku Utara,2024-11-03,202arta@example.com,0858833371,Yes
+CUST0593,Faizah,53.0,Female,Jawa Tengah,2025-01-22,570faizah@example.com,0834638969,Yes
+CUST0594,Gina,,Female,Gorontalo,2023-12-25,shanialailasari@example.net,0818590978872,No
+CUST0595,Siti,45.0,Female,Sulawesi Selatan,2024-10-16,hadi28@example.net,0811047236,Yes
+CUST0596,Lega,59.0,Male,Sulawesi Utara,2025-03-21,877lega@example.com,0863039556,Yes
+CUST0597,Paulin,56.0,Female,Nusa Tenggara Barat,2025-04-17,lprasetyo@example.net,08705514829,Yes
+CUST0598,Jindra,39.0,Male,Aceh,2025-06-04,jindra13@example.com,0877080305,Yes
+CUST0599,Jaeman,60.0,Male,Kalimantan Tengah,2024-10-30,jaeman_80@example.com,0819937348329,Yes
+CUST0600,Lukman,22.0,Male,Sumatera Barat,2024-06-27,lukman_28@example.com,08244948694,No
+CUST0601,Asirwanda,21.0,Male,,2024-03-04,asirwanda_21@example.com,08431403682,Yes
+CUST0602,Kani,22.0,Female,Bali,2025-08-06,kani_93@example.com,0843755267,No
+CUST0603,Ganjaran,26.0,Male,DI Yogyakarta,2025-07-09,gharyanti@example.com,0892960549777,Yes
+CUST0604,Laswi,50.0,Male,Jawa Tengah,2024-10-23,faizahirawan@example.org,084033451513,Yes
+CUST0605,Titin,61.0,Female,Maluku Utara,2024-08-16,ppurwanti@example.net,0871369497965,Yes
+CUST0606,Zulfa,63.0,Female,Lampung,2024-09-18,zulfa_40@example.com,08997409873,Yes
+CUST0607,Bala,65.0,Male,Sulawesi Tenggara,2024-06-05,prabuwasita@example.net,0862223646800,No
+CUST0608,Nova,33.0,Female,Kalimantan Selatan,2025-06-13,hasanahdarijan@example.net,0879131319,Yes
+CUST0860,Winda,38.0,Female,,2025-08-09,549winda@example.com,0873339264,Yes
+CUST0609,Karsana,41.0,Male,Aceh,2024-06-01,672karsana@example.com,084372668323,No
+CUST0610,Salsabila,29.0,Female,Sulawesi Tenggara,2024-03-17,salsabila_71@example.com,0822887770616,Yes
+CUST0611,Gilda,,Female,Maluku Utara,2025-05-02,620gilda@example.com,0813990681066,Yes
+CUST0612,Jane,56.0,Female,Jawa Barat,2025-01-04,bakiono12@example.com,0814511115358,Yes
+CUST0613,Tira,41.0,Female,DI Yogyakarta,2023-10-25,paris03@example.com,08821442514,Yes
+CUST0614,Ibun,38.0,Male,Bengkulu,2024-04-04,hari52@example.com,0805834605547,Yes
+CUST0615,Aurora,,Female,Bali,2024-02-20,439aurora@example.com,0808862476,Yes
+CUST0616,Yessi,27.0,Female,Aceh,2024-07-27,921yessi@example.com,08121074803,Yes
+CUST0617,Vanya,18.0,Female,Sulawesi Tengah,2025-01-24,yusamah@example.org,083616720096,Yes
+CUST0618,Irsad,42.0,Male,Kalimantan Timur,2025-03-07,karimah84@example.com,08612884980,Yes
+CUST0619,Tirta,60.0,Male,Sulawesi Tenggara,2024-09-20,legawawacana@example.net,0884902099,Yes
+CUST0620,Mustika,61.0,Male,Lampung,2024-10-08,nainggolanwakiman@example.com,088513080865,No
+CUST0621,Najam,50.0,Male,Jawa Tengah,2024-02-20,najam_35@example.com,0897219775372,Yes
+CUST0622,Limar,46.0,Male,Kalimantan Utara,2024-10-14,permadidewi@example.net,0886603515,No
+CUST0623,Yuliana,50.0,Female,Banten,2024-07-20,dewimegantara@example.net,08627817507,Yes
+CUST0624,Saiful,58.0,Male,Kepulauan Bangka Belitung,2024-04-10,xpradana@example.org,081432596102,Yes
+CUST0625,Rahayu,27.0,Female,DI Yogyakarta,2024-12-11,941rahayu@example.com,08660743548,No
+CUST0626,Ida,21.0,Female,Kalimantan Selatan,2024-08-21,usadamila@example.org,089782150978,Yes
+CUST0627,Jelita,22.0,Female,Riau,2023-11-30,jelita_54@example.com,08407248064,Yes
+CUST0628,Hani,48.0,Female,Gorontalo,2023-12-08,842hani@example.com,0852846720,Yes
+CUST0629,Baktiadi,37.0,Male,Aceh,2024-04-14,820baktiadi@example.com,0886652148046,Yes
+CUST0630,Ophelia,47.0,Female,Maluku Utara,2024-08-24,himawan20@example.org,081451106781,Yes
+CUST0631,Gamanto,52.0,Male,Kalimantan Utara,2023-12-30,464gamanto@example.com,0871028575,Yes
+CUST0632,Vanesa,28.0,Female,Papua,2023-10-03,vanesa474@example.com,08433804243,No
+CUST0633,Samsul,57.0,Male,Aceh,2024-06-10,candrayolanda@example.com,080578570905,Yes
+CUST0634,Cemeti,34.0,Male,,2024-04-04,cemplunkwidodo@example.com,0852504513,Yes
+CUST0635,Wahyu,20.0,Male,Sumatera Utara,2025-03-15,budisitumorang@example.net,0845369362416,No
+CUST0636,Mustika,,Male,Sulawesi Tenggara,2024-03-28,bala07@example.com,08806412674,Yes
+CUST0637,Rina,48.0,Female,Sumatera Selatan,2024-12-04,94rina@example.com,0828801022,Yes
+CUST0638,Utama,50.0,Male,Nusa Tenggara Barat,2025-05-10,hasanahokto@example.org,0815295768,Yes
+CUST0639,Damar,43.0,Male,Jambi,2024-02-16,damar_13@example.com,0899735272,Yes
+CUST0640,Prakosa,53.0,Male,Jawa Tengah,2023-09-26,prakosa_11@example.com,08974622595,Yes
+CUST0641,Jagaraga,60.0,Male,,2023-10-07,107jagaraga@example.com,08990445119,Yes
+CUST0642,Dina,19.0,Female,Sulawesi Barat,2024-06-08,dina54@example.com,0802910809000,Yes
+CUST0643,Kemal,18.0,Male,Jawa Barat,2025-07-23,923kemal@example.com,0883034661,Yes
+CUST0644,Genta,53.0,Female,Jawa Barat,2024-12-09,genta_14@example.com,088375011629,Yes
+CUST0645,Citra,53.0,Female,Maluku,2024-12-12,citra_23@example.com,089832362663,No
+CUST0646,Rafi,42.0,Male,Maluku Utara,2024-08-23,emin81@example.org,087520182694,No
+CUST0647,Upik,20.0,Male,Sulawesi Selatan,2025-03-21,faizah37@example.net,0823077372,Yes
+CUST0648,Lidya,48.0,Female,DKI Jakarta,2025-04-22,uwaisjamil@example.com,083566634506,Yes
+CUST0649,Caturangga,,Male,Nusa Tenggara Timur,2024-02-15,padmasariganjaran@example.net,0842940543,Yes
+CUST0650,Edi,33.0,Male,,2023-11-10,66edi@example.com,0823265292645,Yes
+CUST0651,Karsa,51.0,Male,Sulawesi Utara,2024-01-01,karsa639@example.com,081101529747,Yes
+CUST0652,Jatmiko,28.0,Male,Kalimantan Tengah,2024-04-19,ika39@example.net,0839344864,Yes
+CUST0653,Salimah,32.0,Female,Lampung,2025-02-04,salimah_81@example.com,0844492489852,No
+CUST0654,Empluk,48.0,Male,Banten,2024-07-05,bagas61@example.org,0816856958,No
+CUST0655,Galak,25.0,Male,DKI Jakarta,2025-03-20,galak873@example.com,0814018461,No
+CUST0656,Damar,58.0,Male,Nusa Tenggara Barat,2025-06-26,mustofa35@example.com,085527810726,Yes
+CUST0657,Kartika,24.0,Female,Jawa Barat,2025-07-15,salwa82@example.com,0888762476,Yes
+CUST0658,Jagaraga,56.0,Male,DI Yogyakarta,2025-04-02,fujiatidaryani@example.com,086284863979,No
+CUST0659,Gaiman,50.0,Male,Gorontalo,2024-09-30,gaiman_38@example.com,0843988791,Yes
+CUST0660,Ade,30.0,Female,Papua,2024-02-02,978ade@example.com,082838046583,No
+CUST0661,Puji,32.0,Female,DI Yogyakarta,2025-09-05,puji_62@example.com,082263520270,Yes
+CUST0662,Gada,47.0,Male,Kalimantan Selatan,2024-10-21,gada939@example.com,0839506973293,Yes
+CUST0663,Melinda,,Female,Jawa Timur,2025-01-12,989melinda@example.com,08605603918,Yes
+CUST0664,Michelle,25.0,Female,Kalimantan Selatan,2025-03-26,408michelle@example.com,0837828266,Yes
+CUST0665,Prakosa,50.0,Male,Papua,2025-07-12,humaira13@example.net,0879933014807,No
+CUST0666,Jaiman,63.0,Male,Gorontalo,2025-03-25,swahyuni@example.net,08468511994,Yes
+CUST0667,Balijan,25.0,Male,Gorontalo,2024-11-27,ksuryatmi@example.net,0874544345358,Yes
+CUST0668,Ajimat,60.0,Male,Sulawesi Utara,2024-05-27,ajimat722@example.com,0883294231,Yes
+CUST0669,Dalimin,31.0,Male,Kalimantan Timur,2023-11-15,ssantoso@example.net,08894840598,No
+CUST0670,Bakti,36.0,Male,Lampung,2025-09-18,bakti_14@example.com,081997368461,Yes
+CUST0671,Ismail,40.0,Male,Kepulauan Bangka Belitung,2024-03-08,ismail168@example.com,08283514490,Yes
+CUST0672,Kartika,38.0,Female,Riau,2024-01-30,xpratiwi@example.net,0806240356,Yes
+CUST0673,Pia,30.0,Female,Bengkulu,2024-02-28,oktavianihartaka@example.net,08243723031,No
+CUST0674,Vicky,53.0,Female,Sumatera Selatan,2024-09-09,vicky_20@example.com,0848677025,Yes
+CUST0675,Saka,29.0,Male,Aceh,2024-12-20,gandirahayu@example.org,089549132065,Yes
+CUST0676,Mila,64.0,Female,Sumatera Barat,2024-08-30,mila966@example.com,081965795730,Yes
+CUST0677,Gawati,60.0,Female,Sumatera Selatan,2024-10-03,wibisonoedi@example.org,0836399186101,Yes
+CUST0678,Halima,42.0,Female,Nusa Tenggara Barat,2025-04-28,iuwais@example.net,0843115878464,Yes
+CUST0679,Jayadi,46.0,Male,Kepulauan Bangka Belitung,2025-09-20,998jayadi@example.com,084642406422,No
+CUST0680,Tania,52.0,Female,Kalimantan Selatan,2024-09-06,galionowasita@example.net,085024295384,No
+CUST0681,Gina,34.0,Female,DI Yogyakarta,2025-09-04,mandasarihasta@example.com,0886383735430,No
+CUST0682,Agnes,30.0,Female,Sulawesi Tengah,2025-03-10,jagapatiwasita@example.com,0802302768,Yes
+CUST0683,Aisyah,21.0,Female,,2025-02-11,agusadriansyah@example.net,086445039754,Yes
+CUST0684,Zamira,20.0,Female,Nusa Tenggara Barat,2024-01-03,863zamira@example.com,0814042975117,Yes
+CUST0685,Jaiman,,Male,Sulawesi Selatan,2024-08-11,jaiman538@example.com,0818103569,Yes
+CUST0686,Slamet,,Male,Gorontalo,2024-02-28,144slamet@example.com,0825675276374,Yes
+CUST0687,Viktor,31.0,Male,DKI Jakarta,2025-01-12,mandalajasmani@example.com,0816703639,Yes
+CUST0688,Jaga,36.0,Male,Papua Barat,2024-11-22,wasishutagalung@example.org,08001846038,No
+CUST0689,Wahyu,55.0,Male,Kalimantan Tengah,2024-07-20,wahyu_93@example.com,0882315176,Yes
+CUST0690,Clara,18.0,Female,Gorontalo,2024-02-16,clara_1@example.com,088870646610,Yes
+CUST0691,Elvina,32.0,Female,Sulawesi Utara,2024-08-04,443elvina@example.com,084736764699,Yes
+CUST0692,Kasiyah,18.0,Female,Jambi,2024-04-13,865kasiyah@example.com,0869825404,Yes
+CUST0693,Cakrabirawa,27.0,Male,Banten,2025-02-18,asaragih@example.net,0895774125,No
+CUST0694,Adiarja,44.0,Male,Papua Barat,2025-06-23,adiarja_50@example.com,0804009508,No
+CUST0695,Putu,19.0,Male,Jambi,2025-08-15,573putu@example.com,0807729943,Yes
+CUST0627,Jelita,22.0,Female,Riau,2023-11-30,jelita_54@example.com,08407248064,Yes
+CUST0696,Melinda,65.0,Female,Jambi,2024-01-05,sinagamahesa@example.org,082287594507,Yes
+CUST0697,Eka,53.0,Male,Bali,2025-09-01,eka_40@example.com,08160778839,Yes
+CUST0698,Fathonah,49.0,Female,Bengkulu,2025-08-31,rajatabakianto@example.org,0828083699871,Yes
+CUST0699,Yoga,45.0,Male,Kalimantan Timur,2024-04-26,kawayadongoran@example.com,0895059196381,Yes
+CUST0700,Leo,50.0,Male,Kepulauan Riau,2024-07-19,asmadimegantara@example.com,0867258473818,No
+CUST0701,Padma,56.0,Female,Sulawesi Barat,2025-05-02,937padma@example.com,084110152654,Yes
+CUST0702,Hana,20.0,Female,Jawa Tengah,2025-01-03,hana611@example.com,0853585286,Yes
+CUST0703,Maryadi,51.0,Male,Jambi,2024-04-13,maryadi_37@example.com,0815004463,Yes
+CUST0704,Talia,52.0,Female,DKI Jakarta,2024-03-23,putu80@example.org,0808950494,No
+CUST0705,Karen,37.0,Female,Jawa Timur,2024-08-10,535karen@example.com,0846176015737,Yes
+CUST0706,Carla,,Female,Lampung,2024-04-11,carla92@example.com,088670205486,Yes
+CUST0707,Waluyo,38.0,Male,Sumatera Utara,2024-04-17,mtamba@example.com,0826168202128,No
+CUST0708,Safina,47.0,Female,,2024-02-04,bambang52@example.net,0839301635,Yes
+CUST0709,Elisa,62.0,Female,Kalimantan Barat,2024-12-04,iswahyudimartaka@example.net,0883761055,Yes
+CUST0710,Cagak,33.0,Male,Sumatera Barat,2025-08-05,532cagak@example.com,0834728012,Yes
+CUST0711,Putri,32.0,Female,Papua Barat,2025-08-28,23putri@example.com,084579835662,Yes
+CUST0712,Panca,60.0,Male,Riau,2025-07-02,ihutagalung@example.com,081112062265,Yes
+CUST0713,Harjasa,47.0,Male,Bali,2025-02-22,mahendragina@example.org,0886567232085,Yes
+CUST0714,Nilam,21.0,Female,Kalimantan Timur,2025-05-09,rafidhutasoit@example.net,080874483732,Yes
+CUST0715,Jane,26.0,Female,Papua Barat,2024-02-13,jane_31@example.com,0876381976,Yes
+CUST0716,Kiandra,57.0,Female,DI Yogyakarta,2025-04-02,241kiandra@example.com,084780209256,Yes
+CUST0717,Dewi,42.0,Female,Jambi,2024-06-13,anggriawanasmadi@example.org,0817589292209,Yes
+CUST0718,Azalea,40.0,Female,Jambi,2024-12-23,handayanigandi@example.com,0856761900032,Yes
+CUST0719,Farhunnisa,45.0,Female,Kalimantan Timur,2024-09-10,pertiwiumaya@example.net,0826855119118,No
+CUST0720,Caturangga,21.0,Male,Nusa Tenggara Barat,2025-06-10,utamiciaobella@example.org,08835787473,Yes
+CUST0721,Yessi,28.0,Female,Jawa Tengah,2025-02-21,kuswandaridalima@example.net,0851615395,No
+CUST0722,Asirwada,42.0,Male,Kepulauan Bangka Belitung,2023-11-13,umegantara@example.net,0881691858,Yes
+CUST0723,Cemani,51.0,Male,Kepulauan Riau,2025-09-15,opungsantoso@example.org,086797399916,No
+CUST0724,Ayu,,Female,Sulawesi Selatan,2025-03-05,pastuti@example.net,0842274101,Yes
+CUST0725,Umaya,47.0,Male,Banten,2024-05-17,wijayaviman@example.net,08417551424,Yes
+CUST0726,Irma,31.0,Female,Kepulauan Riau,2024-04-26,irma_29@example.com,0808725645621,No
+CUST0727,Kamila,21.0,Female,Jawa Barat,2025-06-20,putri22@example.org,08071931616,Yes
+CUST0728,Oni,21.0,Female,Nusa Tenggara Barat,2024-10-06,hlestari@example.org,0804991340,Yes
+CUST0729,Yani,25.0,Female,Bengkulu,2023-12-25,alika09@example.com,0872626166,No
+CUST0730,Galur,38.0,Male,Sumatera Selatan,2024-09-18,galur_37@example.com,080496762480,Yes
+CUST0731,Banawi,20.0,Male,Sumatera Barat,2024-07-04,zulkarnainellis@example.net,0899541795,No
+CUST0732,Vanya,39.0,Female,Sulawesi Utara,2025-03-10,inapertiwi@example.net,08765545919,No
+CUST0733,Michelle,,Female,DI Yogyakarta,2024-04-01,budimanparman@example.org,0874704018,No
+CUST0734,Gamblang,64.0,Male,Papua Barat,2024-12-15,galuh31@example.net,08678365470,No
+CUST0735,Shakila,42.0,Female,Sumatera Barat,2024-01-22,novitasarilukman@example.org,08284446633,No
+CUST0736,Dian,43.0,Female,Kalimantan Tengah,2023-11-17,wulan20@example.net,08672756228,Yes
+CUST0737,Citra,25.0,Female,Kalimantan Tengah,2024-10-11,sarahfirmansyah@example.org,0897046833,No
+CUST0738,Tugiman,25.0,Male,Banten,2025-02-08,tugiman_3@example.com,08928576444,Yes
+CUST0739,Mulyono,24.0,Male,Kalimantan Barat,2024-10-31,mulyono_17@example.com,0816090025,Yes
+CUST0740,Amalia,54.0,Female,Sulawesi Tengah,2024-11-05,amalia725@example.com,08764210445,Yes
+CUST0741,Julia,55.0,Female,Jawa Barat,2024-11-07,dharyanto@example.com,083962790748,Yes
+CUST0742,Cengkal,,Male,Jawa Tengah,2025-02-05,dodowibisono@example.org,0844962659438,Yes
+CUST0743,Aisyah,,Female,Sumatera Utara,2024-11-07,aisyah_93@example.com,0858705112293,No
+CUST0744,Dalima,28.0,Female,Lampung,2024-06-03,usimbolon@example.net,0823873398,No
+CUST0745,Cahyadi,27.0,Male,Sulawesi Selatan,2025-05-19,cahyadi_58@example.com,0856994088547,Yes
+CUST0746,Gada,37.0,Male,Lampung,2024-12-14,dhabibi@example.com,0886957090,Yes
+CUST0747,Nilam,,Female,Maluku Utara,2025-04-16,citraprabowo@example.org,086848771857,Yes
+CUST0748,Tantri,50.0,Female,,2024-08-18,tantri_19@example.com,08862206790,Yes
+CUST0749,Vinsen,54.0,Male,Sumatera Utara,2023-10-25,vinsen_51@example.com,0877845360932,Yes
+CUST0750,Darmana,19.0,Male,Lampung,2024-06-14,bsuryono@example.com,08188573513,Yes
+CUST0751,Harjo,35.0,Male,Kalimantan Barat,2023-12-28,dartono62@example.net,0869852943,Yes
+CUST0752,Puput,60.0,Female,DKI Jakarta,2025-05-16,830puput@example.com,0888557859258,No
+CUST0753,Lanang,54.0,Male,Papua,2025-05-19,eandriani@example.net,085464276586,No
+CUST0754,Ajiman,32.0,Male,Kalimantan Tengah,2025-05-14,damarhardiansyah@example.net,08181142457,Yes
+CUST0755,Devi,37.0,Female,Sulawesi Tenggara,2023-12-14,799devi@example.com,08230343825,Yes
+CUST0756,Olivia,27.0,Female,Banten,2024-09-03,650olivia@example.com,0876164272623,Yes
+CUST0757,Karsa,18.0,Male,Kalimantan Selatan,2024-02-16,608karsa@example.com,08219248831,No
+CUST0758,Slamet,40.0,Male,Kepulauan Bangka Belitung,2024-05-01,mmaryadi@example.org,0888518829,No
+CUST0759,Zelda,60.0,Female,,2025-07-14,ndongoran@example.org,0866263295,Yes
+CUST0760,Safina,34.0,Female,Sulawesi Barat,2024-06-03,wijayantialika@example.org,08390146803,Yes
+CUST0761,Intan,58.0,Female,Riau,2024-04-22,rusmanrajasa@example.org,08650147872,Yes
+CUST0762,Jayeng,,Male,Sulawesi Tenggara,2024-05-06,jayeng_70@example.com,081210847202,No
+CUST0763,Karman,29.0,Male,Jawa Barat,2024-03-06,818karman@example.com,086039828212,No
+CUST0764,Irfan,42.0,Male,Sulawesi Barat,2024-12-16,irfan_91@example.com,0826879745362,No
+CUST0765,Among,32.0,Male,Kepulauan Bangka Belitung,2025-03-31,gamanhutapea@example.com,08915162914,Yes
+CUST0766,Putri,60.0,Female,Kalimantan Selatan,2025-07-10,halimahcager@example.org,08869484756,Yes
+CUST0767,Irfan,46.0,Male,Kepulauan Riau,2025-01-12,irfan_68@example.com,0894715081,Yes
+CUST0768,Ika,39.0,Female,Lampung,2025-05-27,luhungsaefullah@example.net,0817496131260,Yes
+CUST0769,Lidya,21.0,Female,Bengkulu,2025-04-10,tharyanto@example.org,08022421807,Yes
+CUST0770,Bella,29.0,Female,DKI Jakarta,2024-05-11,winarnofathonah@example.net,088869360227,Yes
+CUST0771,Bakianto,51.0,Male,Maluku,2025-01-02,banara24@example.org,0833704233008,Yes
+CUST0772,Tania,,Female,Nusa Tenggara Timur,2024-05-03,tania413@example.com,0859532978460,No
+CUST0773,Manah,59.0,Male,Sumatera Barat,2025-04-22,manah_69@example.com,08189245083,Yes
+CUST0774,Eka,59.0,Female,Aceh,2023-11-29,471eka@example.com,0895515915,Yes
+CUST0775,Tedi,57.0,Male,,2024-04-27,hartatiwasis@example.net,08833792563,Yes
+CUST0776,Nilam,35.0,Female,Bali,2024-06-22,drahmawati@example.net,08060855706,Yes
+CUST0777,Icha,62.0,Female,Kalimantan Utara,2024-12-11,yhalimah@example.net,081345990329,Yes
+CUST0778,Embuh,,Male,Papua,2024-06-02,among30@example.net,08135942920,Yes
+CUST0779,Eman,49.0,Male,Jambi,2025-07-14,eman593@example.com,08674755381,No
+CUST0780,Hadi,33.0,Male,Sulawesi Barat,2023-10-21,hadi_56@example.com,0810877392,No
+CUST0781,Yance,22.0,Female,Aceh,2024-05-06,ramadanmartana@example.org,08731207369,Yes
+CUST0782,Hardi,61.0,Male,Papua,2024-04-19,jessicamahendra@example.org,0822028772862,No
+CUST0783,Carla,28.0,Female,Gorontalo,2024-03-06,rmandasari@example.com,089802412289,Yes
+CUST0784,Indah,44.0,Female,,2024-03-23,tantrirajata@example.net,0869219285856,No
+CUST0785,Ella,19.0,Female,Kalimantan Tengah,2025-09-14,habibielon@example.org,08991135536,Yes
+CUST0786,Maryanto,58.0,Male,Jawa Tengah,2024-04-11,tira25@example.net,08805105835,Yes
+CUST0787,Tantri,30.0,Female,Lampung,2025-01-30,yessioktaviani@example.org,08876272379,No
+CUST0788,Panca,53.0,Male,Sulawesi Utara,2023-10-07,mandalairsad@example.net,0807605501418,No
+CUST0789,Zahra,39.0,Female,,2024-10-30,agustinaenteng@example.com,08611018654,No
+CUST0790,Yance,30.0,Female,Sulawesi Selatan,2024-10-24,lailasarigaiman@example.com,0894545524276,Yes
+CUST0791,Harjo,44.0,Male,Papua,2024-05-09,jinawizulaika@example.com,0804008186,Yes
+CUST0792,Paiman,22.0,Male,DKI Jakarta,2023-10-07,cahyo81@example.net,0807856715,Yes
+CUST0793,Zalindra,27.0,Female,Kepulauan Bangka Belitung,2024-11-10,rinijailani@example.com,0858144790,Yes
+CUST0794,Irsad,43.0,Male,Sulawesi Tenggara,2024-02-18,76irsad@example.com,087412970276,No
+CUST0795,Cindy,33.0,Female,Nusa Tenggara Timur,2024-07-03,firgantorojinawi@example.org,0879694495,Yes
+CUST0796,Kartika,54.0,Female,Kalimantan Selatan,2024-02-21,siregarhasta@example.com,0872790807544,No
+CUST0797,Kayun,23.0,Male,Jawa Timur,2025-04-22,eprasetya@example.org,0803884526,Yes
+CUST0798,Tami,47.0,Female,Kalimantan Timur,2024-03-11,tami657@example.com,0872205052,Yes
+CUST0799,Ratna,28.0,Female,Jawa Timur,2024-11-28,latika64@example.com,087084871353,Yes
+CUST0800,Jagaraga,41.0,Male,Bengkulu,2024-08-19,laraswijaya@example.org,085760582857,No
+CUST0801,Lukita,50.0,Male,Bali,2024-04-23,unggul18@example.com,0822523305165,Yes
+CUST0802,Karen,46.0,Female,Kalimantan Selatan,2024-12-26,197karen@example.com,0830127543,Yes
+CUST0803,Gabriella,55.0,Female,Nusa Tenggara Timur,2025-08-13,bsantoso@example.com,0855135196,Yes
+CUST0804,Latika,49.0,Female,Jawa Timur,2024-07-25,jumari71@example.org,080501083075,Yes
+CUST0805,Wahyu,59.0,Male,Kepulauan Riau,2024-07-16,wahyu572@example.com,083883908996,No
+CUST0806,Vicky,29.0,Female,Sumatera Selatan,2025-02-16,qorinapitupulu@example.net,0869329753,Yes
+CUST0807,Cayadi,34.0,Male,Papua Barat,2024-08-05,61cayadi@example.com,0829097499,No
+CUST0808,Ifa,52.0,Female,Papua Barat,2025-07-21,ifa523@example.com,0865214877,Yes
+CUST0809,Wasis,31.0,Male,Sulawesi Barat,2025-06-23,belindaramadan@example.com,0855320071,No
+CUST0810,Jayeng,43.0,Male,Jambi,2023-11-24,eyuniar@example.org,0855957372,Yes
+CUST0811,Nilam,48.0,Female,Kalimantan Barat,2025-08-02,hasnauwais@example.org,082375631588,Yes
+CUST0812,Halim,44.0,Male,Kalimantan Utara,2025-06-21,halim_85@example.com,08331134183,Yes
+CUST0813,Nabila,60.0,Female,DI Yogyakarta,2024-08-06,jarwa62@example.com,0866139326,Yes
+CUST0814,Viman,63.0,Male,Kalimantan Utara,2025-08-04,inasyiah@example.org,08354650290,No
+CUST0815,Michelle,20.0,Female,Riau,2024-10-14,michelle910@example.com,0864300262,No
+CUST0816,Melinda,64.0,Female,Banten,2023-11-12,11melinda@example.com,0859852123933,Yes
+CUST0817,Syahrini,63.0,Female,Nusa Tenggara Timur,2024-06-26,pratamagatra@example.net,08875898692,Yes
+CUST0818,Sabar,,Male,Papua Barat,2024-12-12,melindanarpati@example.org,081276584519,Yes
+CUST0819,Mulya,53.0,Male,Papua,2024-02-13,mulya_72@example.com,08398216452,Yes
+CUST0820,Raihan,48.0,Male,Aceh,2024-09-01,warta50@example.com,08669427842,Yes
+CUST0821,Nilam,48.0,Female,Jawa Timur,2024-03-14,yulia90@example.net,0858872748830,Yes
+CUST0822,Febi,56.0,Female,Lampung,2024-06-15,febi_15@example.com,0845251267113,Yes
+CUST0823,Drajat,48.0,Male,Kalimantan Timur,2023-12-27,setiawannasim@example.net,082065914060,No
+CUST0824,Kawaya,45.0,Male,Sumatera Barat,2024-04-08,pzulkarnain@example.com,0830332335658,Yes
+CUST0825,Erik,28.0,Male,Kalimantan Timur,2024-02-29,narpaticayadi@example.org,0863247452,Yes
+CUST0826,Pia,33.0,Female,Kalimantan Utara,2024-04-11,533pia@example.com,0823875757,Yes
+CUST0827,Iriana,56.0,Female,Banten,2024-04-12,gaimannababan@example.com,08796150235,Yes
+CUST0828,Rini,39.0,Female,Sulawesi Utara,2024-07-07,rini630@example.com,0883661568528,Yes
+CUST0829,Dewi,65.0,Female,Sumatera Utara,2024-09-08,vivimaulana@example.com,08599983545,Yes
+CUST0830,Faizah,40.0,Female,Sumatera Utara,2025-06-10,susantimarsudi@example.org,08213605722,Yes
+CUST0831,Kasiyah,56.0,Female,Kalimantan Barat,2023-11-03,novamahendra@example.com,0871439104,Yes
+CUST0832,Ida,50.0,Female,Bali,2024-11-04,suartiniharimurti@example.org,08593807183,Yes
+CUST0833,Cager,45.0,Male,Sulawesi Utara,2024-01-16,cager_96@example.com,0875205918,Yes
+CUST0834,Marwata,36.0,Male,Kepulauan Riau,2025-09-20,yuliartikunthara@example.com,08397261952,Yes
+CUST0835,Raisa,64.0,Female,Kalimantan Barat,2024-11-24,982raisa@example.com,08230549642,No
+CUST0836,Mahfud,38.0,Male,Riau,2025-07-21,kasusra28@example.com,0832255251,Yes
+CUST0837,Novi,49.0,Female,Nusa Tenggara Barat,2024-07-14,novi_55@example.com,08856031811,Yes
+CUST0838,Ratih,30.0,Female,Sumatera Utara,2023-09-25,fitria10@example.com,08559069198,Yes
+CUST0839,Panca,58.0,Male,Kepulauan Riau,2025-06-27,mnuraini@example.net,0806628082,No
+CUST0840,Galar,27.0,Male,Jambi,2024-05-03,galar_38@example.com,0861223351,Yes
+CUST0841,Ciaobella,60.0,Female,Nusa Tenggara Barat,2024-10-02,bambang40@example.org,0845143427,Yes
+CUST0842,Gabriella,30.0,Female,,2024-08-08,rezasihotang@example.net,0879151819,No
+CUST0843,Lidya,43.0,Female,Maluku Utara,2024-02-28,dwimayasari@example.net,08103026968,Yes
+CUST0844,Hani,28.0,Female,Kepulauan Bangka Belitung,2024-03-17,hani996@example.com,08993009032,Yes
+CUST0845,Parman,31.0,Male,Papua,2023-11-24,yfirmansyah@example.net,0834554940085,Yes
+CUST0846,Sarah,21.0,Female,Nusa Tenggara Barat,2024-04-21,sarah_9@example.com,08701575805,Yes
+CUST0847,Kunthara,50.0,Male,Bengkulu,2024-11-29,279kunthara@example.com,08926401344,Yes
+CUST0848,Kania,49.0,Female,Maluku,2025-01-31,kania854@example.com,085670442371,Yes
+CUST0849,Tirta,18.0,Male,Aceh,2024-03-21,tirta90@example.com,0868087195436,Yes
+CUST0850,Prayitna,,Male,,2024-12-18,narjisaputra@example.org,0844800866,No
+CUST0851,Zelda,60.0,Female,Bali,2024-09-10,zelda622@example.com,0898867165,Yes
+CUST0852,Titin,34.0,Female,Kalimantan Tengah,2024-12-25,titin49@example.com,0822152527,Yes
+CUST0853,Zelda,21.0,Female,Bengkulu,2024-03-27,oskardabukke@example.org,0815777376,Yes
+CUST0854,Restu,54.0,Female,Papua Barat,2023-12-05,restu_3@example.com,08691945878,Yes
+CUST0855,Hasna,50.0,Female,Bengkulu,2024-02-16,hasna_56@example.com,0846891616,No
+CUST0856,Hasna,24.0,Female,Maluku Utara,2023-11-26,tadriansyah@example.org,0895047014,Yes
+CUST0857,Jamalia,40.0,Female,Kalimantan Timur,2024-08-14,mfirgantoro@example.org,0866237363,Yes
+CUST0858,Karen,23.0,Female,Riau,2024-11-14,bahuwarna44@example.net,0812614188697,Yes
+CUST0741,Julia,55.0,Female,Jawa Barat,2024-11-07,dharyanto@example.com,083962790748,Yes
+CUST0859,Jefri,29.0,Male,Papua Barat,2023-11-08,shutapea@example.org,0851668585083,Yes
+CUST0860,Winda,38.0,Female,,2025-08-09,549winda@example.com,0873339264,Yes
+CUST0861,Jaya,52.0,Male,Kepulauan Riau,2024-03-24,shastuti@example.org,0819455865,Yes
+CUST0862,Gawati,18.0,Female,,2024-01-16,gawati_15@example.com,0813401534509,No
+CUST0863,Gaduh,19.0,Male,Kepulauan Bangka Belitung,2023-11-25,pratiwiharsana@example.org,0899151747,Yes
+CUST0864,Gina,33.0,Female,Bali,2024-07-23,siska37@example.com,0821981486806,No
+CUST0865,Elvin,56.0,Male,Jawa Barat,2025-06-11,danu77@example.net,085195272169,No
+CUST0866,Caturangga,48.0,Male,Nusa Tenggara Barat,2024-08-27,kenari87@example.com,0835525756,No
+CUST0867,Rama,20.0,Male,Sumatera Utara,2025-04-06,embuh96@example.com,08036210068,Yes
+CUST0868,Oliva,62.0,Female,Kalimantan Timur,2024-04-27,kasiyahmaheswara@example.org,0832881115612,Yes
+CUST0869,Damar,26.0,Male,DKI Jakarta,2024-03-17,hwaluyo@example.org,0834532938,Yes
+CUST0870,Fathonah,44.0,Female,Sulawesi Utara,2023-12-08,whidayat@example.org,0848899185,Yes
+CUST0871,Raina,19.0,Female,Jawa Tengah,2025-07-10,raina_23@example.com,082563159262,Yes
+CUST0872,Yahya,31.0,Male,Sulawesi Barat,2024-05-10,jumadiwibisono@example.org,085971790746,No
+CUST0873,Halima,61.0,Female,Aceh,2024-05-10,halima_97@example.com,0870470819335,Yes
+CUST0874,Calista,57.0,Female,Sulawesi Selatan,2025-04-07,calista731@example.com,0883733029943,Yes
+CUST0875,Opung,23.0,Male,Bali,2024-12-15,zwibowo@example.net,08562422845,Yes
+CUST0876,Jinawi,33.0,Male,Gorontalo,2023-11-13,jinawi_13@example.com,0824813794104,Yes
+CUST0877,Nilam,28.0,Female,Papua,2024-08-07,nmulyani@example.com,08363534943,Yes
+CUST0878,Warsita,48.0,Male,Maluku,2024-04-18,edi31@example.org,080405869496,Yes
+CUST0879,Julia,62.0,Female,Banten,2024-03-13,gamani00@example.org,0853696212,No
+CUST0880,Eja,31.0,Male,Riau,2024-05-21,eja_30@example.com,0801586680322,Yes
+CUST0881,Putri,30.0,Female,Kepulauan Bangka Belitung,2025-08-15,711putri@example.com,086378169110,No
+CUST0882,Among,33.0,Male,Maluku,2024-12-20,among467@example.com,081723450913,Yes
+CUST0883,Citra,27.0,Female,Papua,2024-10-04,maryadisalsabila@example.com,0803854312672,No
+CUST0884,Yance,44.0,Female,Sumatera Selatan,2025-02-23,liman86@example.com,0806185421,Yes
+CUST0885,Ridwan,54.0,Male,Jawa Timur,2024-06-07,15ridwan@example.com,08376158167,Yes
+CUST0886,Oni,20.0,Female,Sulawesi Selatan,2024-09-29,zahrapradipta@example.org,0841227171229,Yes
+CUST0887,Virman,,Male,,2025-08-29,shaniamustofa@example.com,083833992395,Yes
+CUST0888,Gandewa,,Male,Sulawesi Tengah,2024-04-08,gandewa469@example.com,087050617081,Yes
+CUST0889,Sakura,46.0,Female,Papua Barat,2024-05-13,sakura508@example.com,0845051910,No
+CUST0890,Ophelia,27.0,Female,Sumatera Barat,2024-08-26,wahyudinkariman@example.org,0843903111,Yes
+CUST0891,Ajiono,,Male,Sulawesi Tenggara,2024-11-27,wahyunicemplunk@example.net,0836503634174,No
+CUST0892,Ridwan,47.0,Male,Kalimantan Barat,2025-02-10,139ridwan@example.com,080495190403,Yes
+CUST0893,Anastasia,26.0,Female,Kepulauan Bangka Belitung,2025-07-22,anastasia500@example.com,0844993478617,Yes
+CUST0894,Lintang,32.0,Female,Papua Barat,2024-04-19,lanangbudiman@example.net,0803021703792,Yes
+CUST0895,Paramita,48.0,Female,Nusa Tenggara Timur,2024-02-18,paramita@example.com,083325253422,No
+CUST0896,Radika,29.0,Male,Sulawesi Tenggara,2025-04-15,751radika@example.com,0824933177010,Yes
+CUST0897,Mahdi,62.0,Male,Sumatera Utara,2025-02-27,bajragin07@example.com,08148031092,No
+CUST0898,Kiandra,34.0,Female,Banten,2024-07-11,ulya44@example.org,0831333000,Yes
+CUST0899,Caket,58.0,Male,Banten,2023-10-23,3caket@example.com,0869176742,Yes
+CUST0900,Winda,19.0,Female,Riau,2023-11-04,fhartati@example.com,0868496050,No
+CUST0901,Prima,21.0,Male,Jawa Timur,2025-01-31,yunita49@example.org,080536557106,Yes
+CUST0902,Viktor,53.0,Male,Bali,2024-10-03,viktor831@example.com,087104702429,Yes
+CUST0903,Ilsa,24.0,Female,Banten,2024-06-26,75ilsa@example.com,0873105479862,Yes
+CUST0904,Dewi,28.0,Female,Sumatera Utara,2024-04-03,jmelani@example.com,083567852065,Yes
+CUST0905,Raihan,34.0,Male,Kalimantan Tengah,2024-05-05,dwibowo@example.org,08665366629,Yes
+CUST0906,Damu,23.0,Male,Sulawesi Tengah,2024-06-27,laksmiwatirachel@example.org,0864952670823,Yes
+CUST0907,Hasim,39.0,Male,Riau,2024-11-03,800hasim@example.com,0828388519256,Yes
+CUST0908,Karta,32.0,Male,Sulawesi Selatan,2024-12-19,rahayu46@example.org,0821509828,Yes
+CUST0909,Balamantri,56.0,Male,Maluku,2024-09-16,466balamantri@example.com,08229726805,No
+CUST0910,Raina,30.0,Female,Kalimantan Tengah,2024-09-29,cengkirmulyani@example.com,0856349572,Yes
+CUST0911,Padmi,37.0,Female,Nusa Tenggara Timur,2025-08-02,anggrainiira@example.org,0805601306275,No
+CUST0912,Jaga,35.0,Male,Kepulauan Bangka Belitung,2024-04-01,habibilaksana@example.org,0884796375,No
+CUST0913,Nilam,,Female,Jawa Timur,2025-02-19,pranowoellis@example.org,0844021480822,No
+CUST0914,Gasti,58.0,Female,Nusa Tenggara Timur,2024-12-08,gasti24@example.com,0872252026,Yes
+CUST0915,Lala,51.0,Female,Maluku,2024-06-02,lala643@example.com,086812648671,Yes
+CUST0916,Wakiman,26.0,Male,Aceh,2025-06-11,sitompulsyahrini@example.net,0875257407,No
+CUST0917,Uli,,Female,Kepulauan Bangka Belitung,2024-09-28,uli_32@example.com,0809566847541,Yes
+CUST0918,Zaenab,39.0,Female,Gorontalo,2025-08-16,ikhsannasyidah@example.com,08460479581,No
+CUST0919,Aurora,26.0,Female,Sumatera Selatan,2023-10-11,52aurora@example.com,08604199827,No
+CUST0920,Zalindra,49.0,Female,Kalimantan Tengah,2024-10-17,halimahamelia@example.com,0880376144,Yes
+CUST0921,Clara,26.0,Female,Jawa Tengah,2023-10-30,clara487@example.com,0877898478,Yes
+CUST0922,Pardi,41.0,Male,Sulawesi Barat,2025-03-19,707pardi@example.com,08057723645,No
+CUST0923,Nadia,35.0,Female,Kepulauan Riau,2024-09-01,hutagalungprasetyo@example.net,086101490408,Yes
+CUST0924,Dacin,58.0,Male,Sulawesi Tenggara,2025-05-30,942dacin@example.com,08665610528,Yes
+CUST0925,Muhammad,28.0,Male,Sulawesi Utara,2023-09-24,muhammad664@example.com,08131879171,Yes
+CUST0926,Cager,64.0,Male,Bengkulu,2025-01-06,cager854@example.com,0835579190357,Yes
+CUST0927,Pranawa,32.0,Male,Kalimantan Barat,2025-04-06,bmardhiyah@example.com,0805543870,Yes
+CUST0928,Karsa,38.0,Male,Jawa Tengah,2025-06-14,karsa330@example.com,0888086481,Yes
+CUST0929,Koko,35.0,Male,Lampung,2025-06-24,koko_35@example.com,089190155890,Yes
+CUST0930,Julia,44.0,Female,Banten,2025-07-30,835julia@example.com,087889413321,No
+CUST0931,Vanya,39.0,Female,Maluku,2025-03-03,jabal89@example.com,0831487955298,Yes
+CUST0932,Hesti,48.0,Female,Kepulauan Riau,2024-05-01,utamabudiyanto@example.com,0828353142200,No
+CUST0933,Wadi,54.0,Male,Sumatera Barat,2024-11-22,813wadi@example.com,08634585677,No
+CUST0934,Jessica,41.0,Female,Jambi,2023-10-08,gunawanprabu@example.net,0859691156715,No
+CUST0935,Dinda,56.0,Female,Maluku,2024-11-09,453dinda@example.com,08856389785,Yes
+CUST0936,Jaiman,62.0,Male,,2024-05-06,napitupuludarsirah@example.com,08982461298,Yes
+CUST0937,Hani,28.0,Female,Papua Barat,2025-03-25,yani98@example.org,08928754900,No
+CUST0938,Dipa,,Male,,2024-10-01,7dipa@example.com,0818949963,No
+CUST0939,Gadang,24.0,Male,Banten,2025-05-07,indah20@example.net,08039324448,Yes
+CUST0940,Shania,19.0,Female,Jawa Timur,2024-11-03,ibunsimbolon@example.org,083058015724,Yes
+CUST0941,Zelda,21.0,Female,Sulawesi Tenggara,2025-02-01,zelda_34@example.com,0807520403,Yes
+CUST0942,Upik,47.0,Male,Sumatera Barat,2025-07-29,emaryadi@example.com,0836323789523,Yes
+CUST0943,Erik,56.0,Male,Sumatera Barat,2023-11-29,erik_14@example.com,0832420153037,Yes
+CUST0944,Asmadi,45.0,Male,Riau,2024-01-21,asmadi_83@example.com,0828124779,Yes
+CUST0945,Pangeran,33.0,Male,Papua Barat,2025-08-26,532pangeran@example.com,0891399580,No
+CUST0946,Gawati,55.0,Female,Sulawesi Barat,2023-09-25,marsudiprakasa@example.net,082645313008,Yes
+CUST0947,Mustika,28.0,Male,Kalimantan Tengah,2024-09-01,mustika752@example.com,0827238646033,No
+CUST0948,Kariman,32.0,Male,Maluku,2023-11-16,jsetiawan@example.org,087680211343,Yes
+CUST0949,Ifa,,Female,,2025-02-10,irmajanuar@example.net,0840186423,Yes
+CUST0950,Danang,51.0,Male,Nusa Tenggara Timur,2025-07-10,danang_14@example.com,08751881441,Yes
+CUST0951,Irsad,37.0,Male,Maluku Utara,2025-03-21,novi38@example.net,0847859037944,Yes
+CUST0952,Hamima,,Female,Sumatera Barat,2025-03-18,hamima_31@example.com,0827321819680,Yes
+CUST0953,Xanana,31.0,Male,DI Yogyakarta,2024-03-10,prasetyoemil@example.org,0805791917532,No
+CUST0954,Hana,37.0,Female,Maluku,2024-07-03,hestimandasari@example.com,0845908683281,No
+CUST0955,Dirja,44.0,Male,Riau,2024-10-07,ganggraini@example.net,0885763980,Yes
+CUST0956,Ella,29.0,Female,DKI Jakarta,2023-12-10,ella_68@example.com,0840022195,Yes
+CUST0957,Saadat,25.0,Male,Sumatera Selatan,2024-04-20,48saadat@example.com,0815144047223,Yes
+CUST0958,Muni,59.0,Male,Sulawesi Utara,2025-07-13,gunawanjaiman@example.net,085629860615,Yes
+CUST0959,Novi,26.0,Female,Jawa Timur,2024-11-02,118novi@example.com,0858132913,Yes
+CUST0960,Wardaya,38.0,Male,Kalimantan Barat,2025-05-24,phasanah@example.com,0845528256,Yes
+CUST0961,Dewi,24.0,Female,Kepulauan Bangka Belitung,2025-04-18,suryonohana@example.net,0896548600,Yes
+CUST0962,Cahya,39.0,Male,Sumatera Utara,2025-08-30,putripratiwi@example.net,085658994646,No
+CUST0963,Novi,56.0,Female,DKI Jakarta,2024-06-30,znasyidah@example.net,08143244197,Yes
+CUST0964,Yance,,Female,Papua Barat,2023-10-02,yance_14@example.com,08056592022,Yes
+CUST0965,Arta,58.0,Male,Sulawesi Utara,2024-05-29,entengpertiwi@example.org,0863261008472,Yes
+CUST0966,Wakiman,35.0,Male,Jawa Tengah,2024-02-01,wakiman11@example.com,0889934976767,No
+CUST0967,Talia,20.0,Female,Sumatera Barat,2025-08-01,talia_26@example.com,0873415121658,No
+CUST0968,Irma,36.0,Female,,2024-03-19,irma242@example.com,0836733261166,Yes
+CUST0969,Sabrina,21.0,Female,Maluku,2025-09-19,mustikaprasasta@example.com,08779287014,Yes
+CUST0970,Gawati,45.0,Female,DI Yogyakarta,2025-02-21,gawati227@example.com,085186013271,Yes
+CUST0971,Zulaikha,30.0,Female,Sulawesi Barat,2024-05-17,642zulaikha@example.com,0869128445,No
+CUST0972,Salimah,45.0,Female,Kalimantan Utara,2025-05-02,keishajanuar@example.com,0808614399536,Yes
+CUST0973,Maman,21.0,Male,Lampung,2024-09-21,190maman@example.com,08057344812,Yes
+CUST0974,Pia,46.0,Female,Papua Barat,2025-03-15,winarnomahmud@example.org,08679130595,Yes
+CUST0975,Gatra,29.0,Male,Aceh,2024-05-26,putraajeng@example.org,08797172385,Yes
+CUST0976,Vino,,Male,Kepulauan Riau,2025-09-13,189vino@example.com,0898203519355,Yes
+CUST0977,Ani,,Female,Kepulauan Bangka Belitung,2023-11-08,ani_59@example.com,0828902780,Yes
+CUST0978,Ade,62.0,Male,Sulawesi Barat,2025-02-08,danujasusanti@example.org,08632126043,Yes
+CUST0979,Rina,23.0,Female,Gorontalo,2024-09-29,mahfudpuspita@example.org,0872055831592,Yes
+CUST0980,Michelle,18.0,Female,Sumatera Barat,2024-07-09,668michelle@example.com,08060027190,No
+CUST0981,Padmi,18.0,Female,Nusa Tenggara Barat,2024-08-02,kadriansyah@example.net,0874559176,Yes
+CUST0982,Luwes,49.0,Male,Kalimantan Tengah,2025-08-19,rahmat59@example.net,088157833306,Yes
+CUST0983,Puput,35.0,Female,Sulawesi Utara,2024-07-30,cahyantoputra@example.com,0872092982910,Yes
+CUST0984,Empluk,29.0,Male,,2024-06-29,empluk_60@example.com,0869492341,No
+CUST0985,Nugraha,53.0,Male,Bali,2025-06-15,qlailasari@example.com,0818235166,Yes
+CUST0986,Wisnu,54.0,Male,Sulawesi Tengah,2025-06-25,dnurdiyanti@example.org,087006634411,Yes
+CUST0987,Ida,30.0,Female,DI Yogyakarta,2023-11-11,prastutigandi@example.org,08831770028,No
+CUST0988,Nasim,44.0,Male,Gorontalo,2024-01-18,nasim_59@example.com,0865863136509,Yes
+CUST0989,Kala,,Male,Riau,2025-03-01,opangestu@example.com,0817697286,Yes
+CUST0990,Vanesa,32.0,Female,Nusa Tenggara Timur,2024-08-22,latif73@example.net,08419971050,Yes
+CUST0991,Irfan,46.0,Male,Kepulauan Bangka Belitung,2025-05-18,wijayantisilvia@example.org,08603417341,Yes
+CUST0992,Umaya,49.0,Male,Sumatera Utara,2024-08-26,emaryati@example.org,0883012408,Yes
+CUST0993,Cawuk,44.0,Male,Jawa Barat,2024-12-29,cawuk_51@example.com,0874758803495,No
+CUST0994,Rahmi,48.0,Female,Kepulauan Bangka Belitung,2024-11-05,27rahmi@example.com,089507251945,Yes
+CUST0995,Waluyo,56.0,Male,DI Yogyakarta,2024-02-04,karya45@example.net,08591312671,Yes
+CUST0996,Vinsen,47.0,Male,Bengkulu,2024-06-09,ibrani64@example.org,08585892932,Yes
+CUST0997,Ulya,59.0,Female,Sulawesi Utara,2024-06-23,putri15@example.com,081976792782,Yes
+CUST0998,Dina,41.0,Female,DKI Jakarta,2025-01-01,dina912@example.com,085499775196,Yes
+CUST0999,Yahya,63.0,Male,Kalimantan Timur,2023-12-12,chartati@example.net,08912787724,No
+CUST1000,Olga,25.0,Male,Banten,2025-02-21,olga_89@example.com,0899714462,Yes
